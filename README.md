@@ -11,7 +11,6 @@ She/Her/Hers
 
 
 # What I hope to learn
-talk about what you're interested in getting out of the course and what you are planning to do once you graduate.  You can include other information you think is helpful to the rest of the class, including a photo if you like - follow the Github markdown guide to learn how.
 ### What I hope to Get Out of the Course
 I hope to better understand how to effectively employ data visualization techniques to let data tell the story. I have a pretty technical background, but none of my core classes are focused on the visual size of data.
 
