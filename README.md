@@ -38,7 +38,7 @@ After graduation, I'll be working as a manager for a data science team at an Art
 
 ### Final Project Part I Coming Soon
 
-### Practicing Persuasions
+### Practicing Persuasions Coming Soon
 
 ### Final Project Part II Coming Soon
 
