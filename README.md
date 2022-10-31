@@ -18,7 +18,7 @@ I hope to better understand how to effectively employ data visualization techniq
 ![What is Data Visualization?](https://cdn.educba.com/academy/wp-content/uploads/2019/03/What-is-Data-Visualization.jpg)
 
 ### Plans After Graduation
-After graduation, I'll be working as a manager for a data science team at an Artifical Intelligence company in Pittsburgh. As a manger, I know it's important to be able to adequately visualize data for higher leadership when they need a quick plot. 
+After graduation, I'll be working as a manager for a data science team at an Artificial Intelligence company in Pittsburgh. As a manger, I know it's important to be able to adequately visualize data for higher leadership when they need a quick plot. 
 
 ![Pittsburgh](https://upload.wikimedia.org/wikipedia/commons/2/25/Pittsburgh_Pennsylvania.jpg)
 
