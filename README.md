@@ -23,7 +23,7 @@ After graduation, I'll be working as a manager for a data science team at an Art
 
 # Portfolio
 
-### King County Data
+### King County Data In Class Exercise
 
 [King County Data](https://fairfieldhannah.github.io/portfolio/KingCountyDemo.html)
 
