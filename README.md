@@ -23,7 +23,9 @@ After graduation, I'll be working as a manager for a data science team at an Art
 
 # Portfolio
 
-### ![King County Data](<div class="flourish-embed flourish-chart" data-src="visualisation/11662141"><script src="https://public.flourish.studio/resources/embed.js"></script></div>)
+### King County Data
+
+![King County Data](<div class="flourish-embed flourish-chart" data-src="visualisation/11662141"><script src="https://public.flourish.studio/resources/embed.js"></script></div>)
 
 ### Controlling Color Coming Soon
 
