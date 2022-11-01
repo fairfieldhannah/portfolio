@@ -25,7 +25,7 @@ After graduation, I'll be working as a manager for a data science team at an Art
 
 ### King County Data
 
-![King County Data](https://fairfieldhannah.github.io/portfolio/KingCountyDemo.html)
+[King County Data](https://fairfieldhannah.github.io/portfolio/KingCountyDemo.html)
 
 ### Controlling Color Coming Soon
 
