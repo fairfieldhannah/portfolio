@@ -9,7 +9,7 @@
 
 ## Visualization 2
 
-<iframe src='https://flo.uri.sh/visualisation/11692774/embed' width="860" height="1200" title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://flo.uri.sh/visualisation/11692774/embed' width="860" height="120" title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 *I created these line charts using Flourish.studio. This chart uses the same data as the first data visualization above which was pulled from [the Organisation for Economic Co-operation and Development](https://data.oecd.org/gga/general-government-debt.htm). The x-axis looks at year and is sorted from  earliest (1995) to latest (2019). The Y axis looks at debt as a percentage of GDP (debt-to-GDP ratio). I considered transforming this to log, but decided against it because I did not want to minimize the effect of the large ratios that many countries have. I used dark blue for the plot color because it's a sad color, and will be more striking with the countries that have higher debt-to-GDP ratios.*
 
