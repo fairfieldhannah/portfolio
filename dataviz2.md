@@ -51,10 +51,10 @@ In this assignment, we looked at three different types of charts: bar charts, li
 
 **_Area Charts_** combine the bar chart with the line chart. They are useful for continuous data. They're typically used to make comparisons between variables as a stacked area chart, but if there are too many variables it can be distracting and unclear. They can also be used to look at one variable's changes over time, which is how I used the area chart for visualization 3. I chose to use this type of data visualization to emphasize the changes over the years, and the drastic differences between some of the countries. With the area chart, it makes it more dramatic and obvious when a country's debt-to-GDP ratio is very high because there is the obvious high amount of color. I kept a dark blue color to indicate that higher debt-to-GDP ratios are worse than lower debt-to-GDP ratios.
 
-**_PROS_** 
+**PROS** 
 1. Area charts effectively display large differences between data points.
 2. Area charts can be used to compare multiple variables. 
 
-**_CONS_**
+**CONS**
 1. Area charts use a lot of color, and if use of colors or pixels are limited then it can be difficult to make an effective area chart.
 2. It is difficult to pinpoint exact data points.
