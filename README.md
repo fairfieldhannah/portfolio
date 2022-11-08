@@ -30,7 +30,8 @@ After graduation, I'll be working as a manager for a data science team at an Art
 ### Assignment 2
 [Visualizing Government Debt](/dataviz2.md)
 
-### In class Tableu Demo
+### In class Tablaeu Demo
+[Tableau Demo](https://github.com/fairfieldhannah/portfolio/blob/main/tableauDemo.md)
 
 ### Data Visualization Critique 1 Coming Soon
 
