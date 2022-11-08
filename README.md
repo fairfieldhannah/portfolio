@@ -23,12 +23,14 @@ After graduation, I'll be working as a manager for a data science team at an Art
 
 # Portfolio
 
-### In Class Demo
+### In Class Flourish Demo
 
 [King County Data](https://fairfieldhannah.github.io/portfolio/KingCountyDemo.html)
 
 ### Assignment 2
 [Visualizing Government Debt](/dataviz2.md)
+
+### In class Tableu Demo
 
 ### Data Visualization Critique 1 Coming Soon
 
