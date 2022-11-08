@@ -31,7 +31,7 @@ After graduation, I'll be working as a manager for a data science team at an Art
 [Visualizing Government Debt](/dataviz2.md)
 
 ### In class Tablaeu Demo
-[Tableau Demo](https://github.com/fairfieldhannah/portfolio/blob/main/tableauDemo.md)
+[Tableau Demo]((https://fairfieldhannah.github.io/portfolio/tableauDemo.html))
 
 ### Data Visualization Critique 1 Coming Soon
 
