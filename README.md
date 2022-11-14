@@ -33,13 +33,8 @@ After graduation, I'll be working as a manager for a data science team at an Art
 ### In class Tablaeu Demo
 [Tableau Demo]((https://fairfieldhannah.github.io/portfolio/tableauDemo.html))
 
-### Data Visualization Critique 1 Coming Soon
-
-### Crafting for Clarity Coming Soon
-
-### Visualizing Government Debt Coming Soon
-
-### Critique By Design Coming Soon
+### Assignment 3 and 4
+[Critique By Design](https://fairfieldhannah.github.io/portfolio/assignment3and4.html)
 
 ### Choosing Chart Types Coming Soon
 
