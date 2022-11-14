@@ -5,7 +5,11 @@
 ### STEP ONE
 Finding a data visualization that needed to be corrected, and also had publicly available data to remake the visualization was difficult. I was looking for a data visualization related to the Department of Defense spending budget but, when I couldn’t find a visualization other than a small table, I decided to find another topic. I searched for crime articles on Google News and came across the article with the data visualization that I used. It was originally in a news story published in the STL Post-Dispatch. The story, “How much crime is in St. Louis? FBI gets numbers wrong after city fell behind on reporting.” Is written by Josh Renaud and was published on November 8, 2022. In short, the story was about the FBI estimating crime statistics for 2021 because thousands of agencies did not transition to the newer NIBRS reporting system, and the FBI discontinued the SRS reporting system. With the midterm elections happening, it was important to the STL Post-Dispatch to publish an article that the crime statistics being used for political motives was not as accurate as the general population likely thought it to be. 
 
-[Original Visualization](https://graphics.stltoday.com/charts/fbi-ucr-participation-2022-11/?initialWidth=940&childId=chart-participation&parentTitle=How%20much%20crime%20is%20in%20St.%20Louis%3F%20FBI%20gets%20numbers%20wrong%20after%20city%20fell%20behind%20on%20reporting.&parentUrl=https%3A%2F%2Fwww.stltoday.com%2Fnews%2Flocal%2Fcrime-and-courts%2Fhow-much-crime-is-in-st-louis-fbi-gets-numbers-wrong-after-city-fell-behind%2Farticle_aae53e3c-5604-56d3-b839-cec0f7cc239d.html)
+
+<img width="1391" alt="originalVis" src="https://user-images.githubusercontent.com/116619734/201561549-ba56098e-5f06-4d93-8326-3df02784064c.png">
+
+
+[Original Visualization Found Here](https://graphics.stltoday.com/charts/fbi-ucr-participation-2022-11/?initialWidth=940&childId=chart-participation&parentTitle=How%20much%20crime%20is%20in%20St.%20Louis%3F%20FBI%20gets%20numbers%20wrong%20after%20city%20fell%20behind%20on%20reporting.&parentUrl=https%3A%2F%2Fwww.stltoday.com%2Fnews%2Flocal%2Fcrime-and-courts%2Fhow-much-crime-is-in-st-louis-fbi-gets-numbers-wrong-after-city-fell-behind%2Farticle_aae53e3c-5604-56d3-b839-cec0f7cc239d.html)
 
 
 ### STEP TWO
@@ -21,6 +25,7 @@ As stated above, Stephen Few’s Data Visualization Effectiveness Profile guided
 To test the solution, I interviewed two different people for their initial impressions of my wireframe (pictured above). The first person that I interviewed was a 27-year-old male. The second person that I interviewed was a 26-year-old male. The script I used, and their responses are below.
 
 ----------start of survey and responses------------
+
 *Can you tell me what you think this is?*
 
 The transition from SRS Reporting System to NIBRS Reporting System starting in 1991 showing every 10 years. (male, 27)
