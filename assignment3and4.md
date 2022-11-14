@@ -9,7 +9,7 @@ Finding a data visualization that needed to be corrected, and also had publicly 
 <img width="1391" alt="originalVis" src="https://user-images.githubusercontent.com/116619734/201561549-ba56098e-5f06-4d93-8326-3df02784064c.png">
 
 
-[Original Visualization Found Here](https://graphics.stltoday.com/charts/fbi-ucr-participation-2022-11/?initialWidth=940&childId=chart-participation&parentTitle=How%20much%20crime%20is%20in%20St.%20Louis%3F%20FBI%20gets%20numbers%20wrong%20after%20city%20fell%20behind%20on%20reporting.&parentUrl=https%3A%2F%2Fwww.stltoday.com%2Fnews%2Flocal%2Fcrime-and-courts%2Fhow-much-crime-is-in-st-louis-fbi-gets-numbers-wrong-after-city-fell-behind%2Farticle_aae53e3c-5604-56d3-b839-cec0f7cc239d.html)
+[Original Visualization Found Here](https://www.stltoday.com/news/local/crime-and-courts/how-much-crime-is-in-st-louis-fbi-gets-numbers-wrong-after-city-fell-behind/article_aae53e3c-5604-56d3-b839-cec0f7cc239d.html)
 
 
 ### STEP TWO
