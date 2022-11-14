@@ -22,38 +22,44 @@ As stated above, Stephen Few’s Data Visualization Effectiveness Profile guided
 
  
 ### STEP FOUR
-To test the solution, I interviewed two different people for their initial impressions of my wireframe (pictured above). The first person that I interviewed was a 27-year-old male. The second person that I interviewed was a 26-year-old male. The script I used, and their responses are below.
+To test the solution, I interviewed two different people for their initial impressions of my wireframe (pictured above). The first person that I interviewed was a 27-year-old male. The second person that I interviewed was a 26-year-old male. I interviewed them seperately so their answers could not influence the others, but wrote them down together below for simplicity sake. The script I used and their responses are below.
 
 ----------start of survey and responses------------
 
 *Can you tell me what you think this is?*
 
 The transition from SRS Reporting System to NIBRS Reporting System starting in 1991 showing every 10 years. (male, 27)
+
 It looks like they switched systems to report crimes and the bar graphs talk about which systems they submitted to initially and then the total numbers, so the red and the blue and equal to the green. (male, 26)
 
 *Can you describe to me what this is telling you?*
 
 It would appear that there was a gap between the NIBRS count and the total count. Where are those crimes coming in? Even in 1991, it almost equals green. Where are the third of the crimes? (male, 27)
+
 It’s telling me why there are problems with submitting to two different agencies and it messes with the overall numbers. (male, 26)
 
 *What specific value does this visualization bring?*
 
 It shows the change over time, so it’s obvious that they’ve transitioned. (male, 27)
+
 It brings value but it can be clearer. (male, 26)
 
 *Is there anything you find surprising or confusing?*
 
 In 30 years it has taken agencies this long to switch to the NIBRS system? Also, why don’t the blue and red add up to the green? (male, 27)
+
 Not really. It took a minute to read through the text but I understood the gist of it. (male, 26)
 
 *Who do you think is the intended audience for this?*
 
 FBI leadership to show that agencies are not reporting to them. (male, 27)
+
 The organization that dictates which system they use. (male, 26)
 
 *Is there anything you would change or do differently?*
 
 Add a column for the number of agencies who did not report. (male, 27)
+
 I would change the wording. It’s too wordy, and can be simplified. (male, 26)
 
 ----------end of survey and responses------------
