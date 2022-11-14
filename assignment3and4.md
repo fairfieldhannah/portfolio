@@ -5,7 +5,7 @@
 ### STEP ONE
 Finding a data visualization that needed to be corrected, and also had publicly available data to remake the visualization was difficult. I was looking for a data visualization related to the Department of Defense spending budget but, when I couldn’t find a visualization other than a small table, I decided to find another topic. I searched for crime articles on Google News and came across the article with the data visualization that I used. It was originally in a news story published in the STL Post-Dispatch. The story, “How much crime is in St. Louis? FBI gets numbers wrong after city fell behind on reporting.” Is written by Josh Renaud and was published on November 8, 2022. In short, the story was about the FBI estimating crime statistics for 2021 because thousands of agencies did not transition to the newer NIBRS reporting system, and the FBI discontinued the SRS reporting system. With the midterm elections happening, it was important to the STL Post-Dispatch to publish an article that the crime statistics being used for political motives was not as accurate as the general population likely thought it to be. 
 
-![Original Visualization](https://graphics.stltoday.com/charts/fbi-ucr-participation-2022-11/?initialWidth=940&childId=chart-participation&parentTitle=How%20much%20crime%20is%20in%20St.%20Louis%3F%20FBI%20gets%20numbers%20wrong%20after%20city%20fell%20behind%20on%20reporting.&parentUrl=https%3A%2F%2Fwww.stltoday.com%2Fnews%2Flocal%2Fcrime-and-courts%2Fhow-much-crime-is-in-st-louis-fbi-gets-numbers-wrong-after-city-fell-behind%2Farticle_aae53e3c-5604-56d3-b839-cec0f7cc239d.html)
+[Original Visualization](https://graphics.stltoday.com/charts/fbi-ucr-participation-2022-11/?initialWidth=940&childId=chart-participation&parentTitle=How%20much%20crime%20is%20in%20St.%20Louis%3F%20FBI%20gets%20numbers%20wrong%20after%20city%20fell%20behind%20on%20reporting.&parentUrl=https%3A%2F%2Fwww.stltoday.com%2Fnews%2Flocal%2Fcrime-and-courts%2Fhow-much-crime-is-in-st-louis-fbi-gets-numbers-wrong-after-city-fell-behind%2Farticle_aae53e3c-5604-56d3-b839-cec0f7cc239d.html)
 
 
 ### STEP TWO
@@ -13,37 +13,40 @@ To critique the visualization I followed Stephen Few's Data Visualization Effect
 
 ### STEP THREE
 As stated above, Stephen Few’s Data Visualization Effectiveness Profile guided my corrections and my initial wireframe. To better the original visualization, I decided to wireframe an unstacked bar chart that focuses on a few years to decrease clutter. I compared agencies submitting NIBRS reports, agencies submitting SRS reports, and, to increase truthfulness, I included the total number of crime reporting agencies. I also added axis labels so the audience has a clearer idea of what the visualization is depicting. 
+
+<img width="468" alt="wireframe" src="https://user-images.githubusercontent.com/116619734/201560879-f073ef5d-22a6-41ab-a36a-9faca400d0ef.png">
+
  
 ### STEP FOUR
 To test the solution, I interviewed two different people for their initial impressions of my wireframe (pictured above). The first person that I interviewed was a 27-year-old male. The second person that I interviewed was a 26-year-old male. The script I used, and their responses are below.
 
 ----------start of survey and responses------------
-_- Can you tell me what you think this is?
+*Can you tell me what you think this is?*
 
 The transition from SRS Reporting System to NIBRS Reporting System starting in 1991 showing every 10 years. (male, 27)
 It looks like they switched systems to report crimes and the bar graphs talk about which systems they submitted to initially and then the total numbers, so the red and the blue and equal to the green. (male, 26)
 
-_- Can you describe to me what this is telling you?
+*Can you describe to me what this is telling you?*
 
 It would appear that there was a gap between the NIBRS count and the total count. Where are those crimes coming in? Even in 1991, it almost equals green. Where are the third of the crimes? (male, 27)
 It’s telling me why there are problems with submitting to two different agencies and it messes with the overall numbers. (male, 26)
 
-_-What specific value does this visualization bring?
+*What specific value does this visualization bring?*
 
 It shows the change over time, so it’s obvious that they’ve transitioned. (male, 27)
 It brings value but it can be clearer. (male, 26)
 
-_- Is there anything you find surprising or confusing?
+*Is there anything you find surprising or confusing?*
 
 In 30 years it has taken agencies this long to switch to the NIBRS system? Also, why don’t the blue and red add up to the green? (male, 27)
 Not really. It took a minute to read through the text but I understood the gist of it. (male, 26)
 
-_- Who do you think is the intended audience for this?
+*Who do you think is the intended audience for this?*
 
 FBI leadership to show that agencies are not reporting to them. (male, 27)
 The organization that dictates which system they use. (male, 26)
 
-_- Is there anything you would change or do differently?
+*Is there anything you would change or do differently?*
 
 Add a column for the number of agencies who did not report. (male, 27)
 I would change the wording. It’s too wordy, and can be simplified. (male, 26)
