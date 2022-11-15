@@ -14,12 +14,11 @@ She/Her/Hers
 ### What I hope to Get Out of the Course
 I hope to better understand how to effectively employ data visualization techniques to let data tell the story. I have a pretty technical background, but none of my core classes are focused on the visual size of data.
 
-![What is Data Visualization?](https://cdn.educba.com/academy/wp-content/uploads/2019/03/What-is-Data-Visualization.jpg)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/154327684@N05/47489033841" title="Big Data Analytics"><img src="https://live.staticflickr.com/7882/47489033841_c5acbe0779_z.jpg" width="640" height="423" alt="Big Data Analytics"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Plans After Graduation
 After graduation, I'll be working as a manager for a data science team at an Artificial Intelligence company in Pittsburgh. As a manger, I know it's important to be able to adequately visualize data for higher leadership when they need a quick plot. 
 
-Pittsburgh
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/matthewpaulson/8619990519/in/photostream/" title="Pitt Point Dusk"><img src="https://live.staticflickr.com/8400/8619990519_48f5cef53b_z.jpg" width="640" height="427" alt="Pitt Point Dusk"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Portfolio
