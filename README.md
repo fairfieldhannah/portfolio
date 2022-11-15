@@ -12,7 +12,7 @@ She/Her/Hers
 
 # What I hope to learn
 ### What I hope to Get Out of the Course
-I hope to better understand how to effectively employ data visualization techniques to let data tell the story. I have a pretty technical background, but none of my core classes are focused on the visual size of data.
+I hope to better understand how to effectively employ data visualization techniques to let data tell the story. I have a pretty technical background, but none of my core classes are focused on the visualization side of data.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/154327684@N05/47489033841" title="Big Data Analytics"><img src="https://live.staticflickr.com/7882/47489033841_c5acbe0779_z.jpg" width="640" height="423" alt="Big Data Analytics"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
