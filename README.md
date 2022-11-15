@@ -19,7 +19,8 @@ I hope to better understand how to effectively employ data visualization techniq
 ### Plans After Graduation
 After graduation, I'll be working as a manager for a data science team at an Artificial Intelligence company in Pittsburgh. As a manger, I know it's important to be able to adequately visualize data for higher leadership when they need a quick plot. 
 
-![Pittsburgh](https://flic.kr/p/e8PkGA)
+Pittsburgh
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/matthewpaulson/8619990519/in/photostream/" title="Pitt Point Dusk"><img src="https://live.staticflickr.com/8400/8619990519_48f5cef53b_z.jpg" width="640" height="427" alt="Pitt Point Dusk"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Portfolio
 
