@@ -36,9 +36,8 @@ After graduation, I'll be working as a manager for a data science team at an Art
 ### Assignment 3 and 4
 [Critique By Design](https://fairfieldhannah.github.io/portfolio/assignment3and4.html)
 
-### Choosing Chart Types Coming Soon
-
-### Final Project Part I Coming Soon
+### Final Project Part I
+[Accidental Overdoses in Allegheny County](https://fairfieldhannah.github.io/portfolio/finalproject1.html)
 
 ### Practicing Persuasions Coming Soon
 
