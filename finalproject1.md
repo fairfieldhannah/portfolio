@@ -4,7 +4,6 @@
 With the increase in drug overdose deaths, the US Centers for Disease Control and Prevention's Injury Prevention & Control office states that the US is in an "overdose crisis." Because this is such a prominent issue in the United States today, I'm looking at accidental drug overdose statistics. I want to start by exploring where in the United States accidental drug overdoses are most commonly occuring. A quick glance at the data shows that there are some municipalities that have more accidental drug overdoses than other municipalities. Next, I want to look at potential reasons for why accidental drug overdoses are more common in those municipalities. I plan to expand off of the [Center for Disease Control and Prevention's State Unintentional Drug Overdose Reporting System (SUDOR)](https://www.cdc.gov/drugoverdose/fatal/dashboard/index.html) by focusing on one of the states with the highest amount of accidental drug overdoses. I'd like to then look at crime datasets, and census datasets for the county with highest amount of drug overdoses. Finally, I want to explore what can be done to help those areas. 
 
 ## Sketches
-Clear and understandable sketches created and available on the Github page. Sketches mimic aspects of the outline and build on message. Story structure is built into sketches.
 
 <div class='tableauPlaceholder' id='viz1669176106922' style='position: relative'><noscript><a href='#'><img alt='&lt;Accidental Drug Overdose by State, 2020&gt; ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SU&#47;SUDORSOverdosetreemap&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SUDORSOverdosetreemap&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SU&#47;SUDORSOverdosetreemap&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>
   var divElement = document.getElementById('viz1669176106922');
@@ -42,16 +41,14 @@ This treemap explores the counties across Ohio to see if any counties had a high
 
 
 ## Data
-Data source identified. A copy of the data, or a recreated version of the data is available via a publicly-accessible link (Github, Box, or other publicly-accessible link). A couple of paragraphs that document data sources and how data will be used.
 
-I will likely add more datasets as I progress through the final project, but I am starting with three datasets.
+I will likely add more datasets as I progress through the final project, but I am starting with two datasets.
 
 My first dataset is the [Center for Disease Control and Prevention's State Unintentional Drug Overdose Reporting System (SUDOR)](https://www.cdc.gov/drugoverdose/fatal/dashboard/index.html). I will use the data from this dataset to explore where in the United States accidental drug overdoses are most prominent. A limitation with this dataset is that only 29 states have reported their accidental overdose data to the CDC's SUDOR system. Because of this, we can only compare states that have submitted their data to SUDOR. 
 
-My second dataset is from [Ohio's Department of Health]([https://data.pa.gov/Opioid-Related/Estimated-Drug-Overdose-Deaths-CY-2012-Current-Cou/azzc-q64m?referrer=embed](https://odh.ohio.gov/know-our-programs/violence-injury-prevention-program/media/2020+ohio+drug+overdose+report)). Because Ohio has the highest number of drug overdoses in the SUDAR's dataset, I will use this dataset to explore the entire state's statistics. 
-
-My third dataset is from [Ohio's Department of Health](https://data.wprdc.org/dataset/uniform-crime-reporting-data). I will use this dataset to compare higher crime areas with higher drug overdose areas to see if this could give more insight as to why some areas have higher accidental drug overdoses. 
+My second dataset is from [Ohio's Department of Health]([https://data.pa.gov/Opioid-Related/Estimated-Drug-Overdose-Deaths-CY-2012-Current-Cou/azzc-q64m?referrer=embed](https://odh.ohio.gov/know-our-programs/violence-injury-prevention-program/media/2020+ohio+drug+overdose+report)). Because Ohio has the highest number of drug overdoses in the SUDAR's dataset, I will use this dataset to explore the entire state's statistics. From this data, I will get the county with the highest number of drug overdoses. Getting this information will help me look at potential root causes of why drug overdoses are so prominent in that county. From my visualization above, it is clear that Franklin County has the highest nyumber of drug overdoses for 2020. I am currently researching more about why that could be. 
 
 ## Method and Medium
+
 I will be completing the project using free hand sketches, Tableau, Flourish, and Shorthand. I will use free hand sketches to create my wireframes. I will use Tableau and Flourish to create my visualizations. I will use Shorthand to display my completed final project. 
 
