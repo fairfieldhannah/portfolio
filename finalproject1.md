@@ -1,7 +1,7 @@
 # Accidental Drug Overdoses in the United States
 
 ## Outline
-With the increase in drug overdose deaths, the US Centers for Disease Control and Prevention's Injury Prevention & Control office states that the US is in an "overdose crisis." Because this is such a prominent issue in the United States today, I'm looking at accidental drug overdose statistics. I want to start by exploring where in the United States accidental drug overdoses are most commonly occuring. A quick glance at the data shows that there are some municipalities that have more accidental drug overdoses than other municipalities. Next, I want to look at potential reasons for why accidental drug overdoses are more common in those municipalities. I plan to expand off of the [Center for Disease Control and Prevention's State Unintentional Drug Overdose Reporting System (SUDOR)](https://www.cdc.gov/drugoverdose/fatal/dashboard/index.html) by focusing on one of the most prominent states with accidental drug overdoses. I'd like to then look at crime datasets, and census datasets. Finally, I want to explore what can be done to help those areas. 
+With the increase in drug overdose deaths, the US Centers for Disease Control and Prevention's Injury Prevention & Control office states that the US is in an "overdose crisis." Because this is such a prominent issue in the United States today, I'm looking at accidental drug overdose statistics. I want to start by exploring where in the United States accidental drug overdoses are most commonly occuring. A quick glance at the data shows that there are some municipalities that have more accidental drug overdoses than other municipalities. Next, I want to look at potential reasons for why accidental drug overdoses are more common in those municipalities. I plan to expand off of the [Center for Disease Control and Prevention's State Unintentional Drug Overdose Reporting System (SUDOR)](https://www.cdc.gov/drugoverdose/fatal/dashboard/index.html) by focusing on one of the states with the highest amount of accidental drug overdoses. I'd like to then look at crime datasets, and census datasets for the county with highest amount of drug overdoses. Finally, I want to explore what can be done to help those areas. 
 
 ## Sketches
 Clear and understandable sketches created and available on the Github page. Sketches mimic aspects of the outline and build on message. Story structure is built into sketches.
@@ -26,7 +26,18 @@ This tree map displays the 29 states that submit reports to the Center for Disea
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-This simple table explores the breakdown of deaths by gender. We can see that men more than double the women's statistics. 
+This simple table explores the breakdown of deaths by gender across the United States. We can see that men more than double the women's statistics. 
+
+<div class='tableauPlaceholder' id='viz1669178721475' style='position: relative'><noscript><a href='#'><img alt='&lt;Ohio Drug Overdose by County, 2020&gt; ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Oh&#47;OhioCountyDrugOverdose&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='OhioCountyDrugOverdose&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Oh&#47;OhioCountyDrugOverdose&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>
+  var divElement = document.getElementById('viz1669178721475');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+This treemap explores the counties across Ohio to see if any counties had a higher concentration of overdoses. According to the data, Franklin county had the highest amount of overdoses in 2020. 
 
 
 
