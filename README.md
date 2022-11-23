@@ -37,7 +37,7 @@ After graduation, I'll be working as a manager for a data science team at an Art
 [Critique By Design](https://fairfieldhannah.github.io/portfolio/assignment3and4.html)
 
 ### Final Project Part I
-[Accidental Overdoses in Allegheny County](https://fairfieldhannah.github.io/portfolio/finalproject1.html)
+[Accidental Drug Overdoses in the United States](https://fairfieldhannah.github.io/portfolio/finalproject1.html)
 
 ### Practicing Persuasions Coming Soon
 
