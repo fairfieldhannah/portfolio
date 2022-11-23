@@ -10,6 +10,10 @@ Clear and understandable sketches created and available on the Github page. Sket
 
 This tree map displays the 29 states that submit reports to the Center for Disease Control and Prevention's State Unintentional Drug Overdose Reporting System (SUDOR). SUDOR's purpose is to "presents comprehensive information on the characteristics and circumstances surrounding drug overdose deaths to inform prevention and response efforts". The data is submitted by states, who pull overdose death statistics from from death certificates, medical examiner/coroner reports, and postmortem toxicology results. 
 
+<div class='tableauPlaceholder' id='viz1669176560234' style='position: relative'><noscript><a href='#'><img alt='&lt;Accidental Overdose by Gender, 2020&gt; ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SU&#47;SUDORSOverdosetreemap&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SUDORSOverdosetreemap&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SU&#47;SUDORSOverdosetreemap&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+
+This simple table explores the breakdown of deaths by gender. We can see that men more than double the women's statistics. 
+
 
 
 ## Data
