@@ -3,7 +3,7 @@
 ## Outline
 With the increase in drug overdose deaths, the US Centers for Disease Control and Prevention's Injury Prevention & Control office states that the US is in an "overdose crisis." Because this is such a prominent issue in the United States today, I'm looking at accidental drug overdose statistics. I want to start by exploring where in the United States accidental drug overdoses are most commonly occuring. A quick glance at the data shows that there are some municipalities that have more accidental drug overdoses than other municipalities. Next, I want to look at potential reasons for why accidental drug overdoses are more common in those municipalities. I plan to expand off of the [Center for Disease Control and Prevention's State Unintentional Drug Overdose Reporting System (SUDOR)](https://www.cdc.gov/drugoverdose/fatal/dashboard/index.html) by focusing on one of the states with the highest amount of accidental drug overdoses. I'd like to then look at crime datasets, and census datasets for the county with highest amount of drug overdoses. Finally, I want to explore what can be done to help those areas. 
 
-My story structure will be broken up into "three basic dramatic parts" as told by Scott Berinato in Good Charts
+My story structure will be broken up into "three basic dramatic parts" as told by Scott Berinato in Good Charts. I feel comfortable with the setup of my project, but I'm still researching for the conflict and resolution which will be completed for the final presentation.
 
 **Setup:** where in the United States is the drug overdose problem the worst?
 
@@ -72,5 +72,5 @@ My second dataset is from [Ohio's Department of Health](https://odh.ohio.gov/kno
 
 ## Method and Medium
 
-I will be completing the project using free hand sketches, Tableau, Flourish, and Shorthand. I will use free hand sketches to create my wireframes. I will use Tableau and Flourish to create my visualizations. I will use Shorthand to display my completed final project. 
+I will be completing the project using Tableau, Flourish, and Shorthand. I will use Tableau and Flourish to create my visualizations. I will use Shorthand to display my completed final project. 
 
