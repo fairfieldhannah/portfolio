@@ -37,7 +37,7 @@ This simple table explores the breakdown of deaths by gender across the United S
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-This treemap explores the counties across Ohio to see if any counties had a higher concentration of overdoses. According to the data, Franklin county had the highest amount of overdoses in 2020. 
+This treemap explores the counties across Ohio to see if any counties had a higher concentration of overdoses. According to the data, Franklin county had the highest amount of overdoses in 2020. I wanted to make a map on the state, but Tableau did not recognize all of the counties as counties, so it only mapped about a third of the counties. I want to fix this before the final project is due. 
 
 
 
