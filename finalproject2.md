@@ -41,7 +41,7 @@ Data visualizations are identified, and sketches include examples of how the rea
 
 ### User research: protocol
 The goal of the research is to gauge audience understanding of the wireframes and storyboard. 
-**a.** the target audience I hope to reach with my story is people who live within the communities with the highest drug-issues so they can understand the situation in their local area. This may garner support for locals to help better drug-related issues.  
+**a.** the target audience I hope to reach with my story is people who live within the communities with the highest drug-issues so they can understand the situation in their local area. This may motivate locals to support their local drug overdose prevention organizations.  
 **b.** I want to get three people from completely different backgrounds, races, and ages so that I can get as different of people to interview as possible. I want each person to be very different because I want them to provide their honest opinions in how the visualization impacts them. If people have the same background, it's likely that the visualization will impact them in similar ways. 
 **c.** My interview script is:
 1. What is the visualization portraying?
