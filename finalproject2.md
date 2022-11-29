@@ -19,10 +19,11 @@ The goal of the research is to gauge audience understanding of the wireframes an
 5. If this information portrayed your local area, how would you react?
 
 ### User research: findings
-The student has documented the findings from the interviews, including specific insights and observations, key quotes and other learnings. The student has identified what changes they plan on implementing based on the feedback to address any issues raised in the user research. Student has completed at least three interviews. The interviewees are broadly described (e.g. student, 20's), but all PII and any sensitive information has been removed.
 **a.** I interviewed the following three people:
 1.
 2.
 3.
 **b.** The findings of my interview are:
-**c.** changes you plan on implementing to your visualizations next week to address the issues identified. 
+including specific insights and observations, key quotes and other learnings.
+
+**c.** changes you plan on implementing to your visualizations next week to address the issues identified. (address any issues raised in the user research.)
