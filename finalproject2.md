@@ -13,6 +13,7 @@ Student has created a storyboard that lays out the necessary progression through
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+This tree map displays the 29 states that submit reports to the Center for Disease Control and Prevention's State Unintentional Drug Overdose Reporting System (SUDOR). SUDOR's purpose is to "presents comprehensive information on the characteristics and circumstances surrounding drug overdose deaths to inform prevention and response efforts". The data is submitted by states, who pull overdose death statistics from from death certificates, medical examiner/coroner reports, and postmortem toxicology results. 
 
 <div class='tableauPlaceholder' id='viz1669178721475' style='position: relative'><noscript><a href='#'><img alt='&lt;Ohio Drug Overdose by County, 2020&gt; ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Oh&#47;OhioCountyDrugOverdose&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='OhioCountyDrugOverdose&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Oh&#47;OhioCountyDrugOverdose&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
@@ -23,6 +24,7 @@ Student has created a storyboard that lays out the necessary progression through
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+This treemap explores the counties across Ohio to see if any counties had a higher concentration of overdoses. According to the data, Franklin county had the highest amount of overdoses in 2020. I wanted to make a map on the state, but Tableau did not recognize all of the counties as counties, so it only mapped about a third of the counties. I want to fix this before the final project is due. 
 
 **Conflict:** what factors influence areas to have bigger issues with drug overdoses? Is there a certain demographic who experiences a higher number of overdoses?
 
