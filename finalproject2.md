@@ -16,7 +16,7 @@ With the increase in drug overdose deaths, the US Centers for Disease Control an
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-The Center for Disease Control and Prevention's National Vital Statistics System [(NVSS)](https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm) . SUDOR's purpose is to ["present comprehensive information on the characteristics and circumstances surrounding drug overdose deaths to inform prevention and response efforts"](https://www.cdc.gov/drugoverdose/fatal/dashboard/index.html). The data is submitted by states, who pull overdose death statistics from from death certificates, and send reports to the National Center for Health Statistics (NCHS). 
+The Center for Disease Control and Prevention's National Vital Statistics System [(NVSS)](https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm) counts drug overdose deaths occurring within the 50 states and the District of Columbia. The data is submitted by states, who pull overdose death statistics from from death certificates, and send reports to the National Center for Health Statistics (NCHS). I looking specifically at 2021. 
 
 We can see that West Virginia has the highest number of drug overdoses per 100,000. To better understand why West Viriginia has the highest number of overdoses from states that reported to NCHS, we can see where in West Virginia the overdoses are occuring.
 
