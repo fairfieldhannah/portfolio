@@ -3,7 +3,7 @@
 ### Wireframes and storyboards
 Student has created a storyboard that lays out the necessary progression through sketches and / or wireframes for their project. The sketches are high-fidelity, individual draft data visualizations of the critical elements of the story. The outline of the story is clear, and the data visualizations appear to fit well in the context of the outline. There are a sufficient number of data visualizations and they provide a good summary of the story the student wishes to tell. Information is logically presented and easy to follow. Sketches and/or prototypes and scenarios of use bring opportunity areas to life
 
-With the increase in drug overdose deaths, the US Centers for Disease Control and Prevention's Injury Prevention & Control office states that the US is in an ["overdose crisis"](https://www.cdc.gov/drugoverdose/featured-topics/overdose-prevention-campaigns.html).
+With the increase in drug overdose deaths, the US Centers for Disease Control and Prevention's Injury Prevention & Control office states that the US is in an ["overdose crisis"](https://www.cdc.gov/drugoverdose/featured-topics/overdose-prevention-campaigns.html). Because many drug overdoses involve multiple types of drugs, I'm looking at all drug overdose deaths in 2021. 
 
 **Setup:** where in the United States is the drug overdose problem the worst?
 <div class='tableauPlaceholder' id='viz1669774309589' style='position: relative'><noscript><a href='#'><img alt='Drug Overdose Deaths, 2021  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;46&#47;46PWHBF52&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;46PWHBF52' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;46&#47;46PWHBF52&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
@@ -15,26 +15,39 @@ With the increase in drug overdose deaths, the US Centers for Disease Control an
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+**SOURCE:** [National Vital Statistics System](https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm)
 
 The Center for Disease Control and Prevention's National Vital Statistics System [(NVSS)](https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm) counts drug overdose deaths occurring within the 50 states and the District of Columbia. The data is submitted by states, who pull overdose death statistics from death certificates, and send reports to the National Center for Health Statistics (NCHS). 
 
 We can see that West Virginia has the highest number of drug overdoses per 100,000. To better understand why West Viriginia has the highest number of overdoses from states that reported to NCHS, we can see where in West Virginia the overdoses are occuring.
 
-<div class='tableauPlaceholder' id='viz1669178721475' style='position: relative'><noscript><a href='#'><img alt='&lt;Ohio Drug Overdose by County, 2020&gt; ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Oh&#47;OhioCountyDrugOverdose&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='OhioCountyDrugOverdose&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Oh&#47;OhioCountyDrugOverdose&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+<div class='tableauPlaceholder' id='viz1669776273811' style='position: relative'><noscript><a href='#'><img alt='West Virginia Drug Overdose Deaths by County, 2021 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book7_16697762671020&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book7_16697762671020&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book7_16697762671020&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
-  var divElement = document.getElementById('viz1669178721475');
+  var divElement = document.getElementById('viz1669776273811');
   var vizElement = divElement.getElementsByTagName('object')[0];
   vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-According to the data, Franklin county had the highest amount of overdoses in 2020. 
+**Data Source:** [West Virginia Office of Drug Control Policy Data Dashboard](https://dhhr.wv.gov/office-of-drug-control-policy/datadashboard/Pages/default.aspx)
+
+According to the data, Cabell county had the highest overall number of overdose deaths in 2021, but Logan County had the highest number of overdose deaths per 100,000. 
 
 **Conflict:** what factors influence areas to have bigger issues with drug overdoses? Is there a certain demographic who experiences a higher number of overdoses?
+First, I looked at unemployment rates by county. I didn't notice any significant similarities between counties with high levels of unemployment and high levels of drug overdose deaths. This led me to believe that perhaps it's the jobs that people are doing. Maybe if people are doing highly physical jobs then they're more likely to be injured and require a medical solution which would introduce them to addictive drugs that could lead to an overdose. 
+
+First, I looked to what jobs are most common in West Virginia. Of the top 15 jobs, I consider 4 to be highly physical: construction, justice/public order/safety activities, coal mining, and truck transportation. 
+**INSERT BAR CHART SHOWING TOP 15 JOBS BY NUMBERS**
+
+Then, I looked by regions to see if any of these jobs correlate with the counties with high levels of drug overdose deaths. [West Virginia Workforce]() splits the state up in 6 workforce development regions. This is the lowest level that I could get data, so I'm using these regions instead of the indvidual county level. 
+
+
 
 
 **Resolution:** what can we do to decrease drug overdoses in the United States?
+-Walk up clinics in high risk areas
+-Narcan education
 
 
 ### Design: data visualizations
@@ -60,3 +73,10 @@ The goal of the research is to gauge audience understanding of the wireframes an
 including specific insights and observations, key quotes and other learnings.
 
 **c.** changes you plan on implementing to your visualizations next week to address the issues identified. (address any issues raised in the user research.)
+
+
+### Resources
+[US Population](https://www.census.gov/quickfacts/fact/map)
+[West Virginia Population](https://www.census.gov/quickfacts/fact/map/WV,CA/POP645220) 
+[West Virginia Drinking Statistics](https://datausa.io/profile/geo/west-virginia#economy)
+[West Virginia Unemployment](http://lmi.workforcewv.org/DataRelease/CountyRelease.html)
