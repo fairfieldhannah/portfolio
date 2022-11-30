@@ -52,6 +52,7 @@ First, I looked to what jobs are most common in West Virginia. Of the top 15 job
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+
 Then, I looked by regions to see if any of these jobs correlate with the counties with high levels of drug overdose deaths. [West Virginia Workforce]() splits the state up in 6 workforce development regions. This is the lowest level that I could get data, so I'm using these regions instead of the indvidual county level. Workforce development region 2 has the highest average of overdose deaths. It includes Cabell county, Putname county, Wayne county, Loncoln county, Boone county, Logan county, and Mingo county.
 
 http://lmi.workforcewv.org/Employment_N_Wages/EnW.html 
