@@ -40,8 +40,9 @@ First, I looked at unemployment rates by county. I didn't notice any significant
 First, I looked to what jobs are most common in West Virginia. Of the top 15 jobs, I consider 4 to be highly physical: construction, justice/public order/safety activities, coal mining, and truck transportation. 
 **INSERT BAR CHART SHOWING TOP 15 JOBS BY NUMBERS**
 
-Then, I looked by regions to see if any of these jobs correlate with the counties with high levels of drug overdose deaths. [West Virginia Workforce]() splits the state up in 6 workforce development regions. This is the lowest level that I could get data, so I'm using these regions instead of the indvidual county level. 
+Then, I looked by regions to see if any of these jobs correlate with the counties with high levels of drug overdose deaths. [West Virginia Workforce]() splits the state up in 6 workforce development regions. This is the lowest level that I could get data, so I'm using these regions instead of the indvidual county level. Workforce development region 2 has the highest average of overdose deaths. It includes Cabell county, Putname county, Wayne county, Loncoln county, Boone county, Logan county, and Mingo county.
 
+http://lmi.workforcewv.org/Employment_N_Wages/EnW.html 
 
 
 
