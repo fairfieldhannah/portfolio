@@ -4,6 +4,8 @@
 
 With the increase in drug overdose deaths, the US Centers for Disease Control and Prevention's Injury Prevention & Control office states that the US is in an ["overdose crisis"](https://www.cdc.gov/drugoverdose/featured-topics/overdose-prevention-campaigns.html). Because many drug overdoses involve multiple types of drugs, I'm looking at all drug overdose deaths in 2021. 
 
+Sources
+
 **Setup:** 
 Where in the United States is the drug overdose problem the worst?
 <div class='tableauPlaceholder' id='viz1669774309589' style='position: relative'><noscript><a href='#'><img alt='Drug Overdose Deaths, 2021  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;46&#47;46PWHBF52&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;46PWHBF52' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;46&#47;46PWHBF52&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
@@ -100,10 +102,31 @@ The goal of the research is to gauge audience understanding of the wireframes an
 
 **c.** My interview script is:
 1. What is the visualization portraying?
-2. What stands out to you in this visualization?
-3. Is there anything you would change about this visualization?
-4. Is this information alarming or expected? 
-5. If this information portrayed your local area, how would you react?
+-The Us dark/light for overdose deaths. 
+-
+3. What stands out to you in this visualization?
+-i'm surprised missouri is light. WV and alaska are very dark. the neighboring states aren't as dark
+-I expected to see higher populations with higher drug overdoses than rural
+5. Is there anything you would change about this visualization?
+-no
+7. Is this information alarming or expected? 
+-did not expect it, see above. problem in every state regardless of size
+9. If this information portrayed your local area, how would you react?
+-I would hope our state government is doing somethng to help with education on drugs
+
+
+**1. What did you gather from this information?**
+-I learned more about the drug overdoses in the county
+**2. What stands out to you?**
+I was surprised Missouri wasn't higher. I was also surprised West Virginia was so high. I would've expected California, New York, and Texas to be higher. 
+**3. Is there anything you would change about my delivery?**
+-No. All clear and easy to follow
+**4. Is this information alarming or expected?**
+Alarming to me. Because I'm not familiar with anybody taking drugs so I wasn't anticipating that it's affecting that many people. 
+**5. If this information portrayed your local area, how would you react?**
+It would be helpful to know if this is a community problem, and what are we doing to help it?
+
+
 
 ### User research: findings
 
