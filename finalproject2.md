@@ -94,7 +94,7 @@ Increasing availability and education in administration could decrease the numbe
 ### User research: protocol
 The goal of the research is to gauge audience understanding of the wireframes and storyboard. 
 
-**a.** the target audience I hope to reach with my story is people who live within the communities with the highest drug-issues so they can understand the situation in their local area. This may motivate locals to support their local drug overdose prevention organizations.  
+**a.** the target audience I hope to reach with my story is people who live within the communities with the highest drug-issues so they can understand the situation in their local area. This may motivate locals to support their local drug overdose prevention organizations, and carry Naloxone hydrochloride.  
 
 **b.** I want to get three people from completely different backgrounds, races, and ages so that I can get as different of people to interview as possible. I want each person to be very different because I want them to provide their honest opinions in how the visualization impacts them. If people have the same background, it's likely that the visualization will impact them in similar ways. 
 
@@ -108,9 +108,9 @@ The goal of the research is to gauge audience understanding of the wireframes an
 ### User research: findings
 
 **a.** I interviewed the following three people:
-1.
-2.
-3.
+1. Male, 27 Years Old, Accountant
+2. Female, 57 Years Old, Emergency Department Nurse/Research Coordinator
+3. 
 
 **b.** The findings of my interview are:
 including specific insights and observations, key quotes and other learnings.
