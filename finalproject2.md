@@ -70,7 +70,8 @@ This bar chart does not seem to yield any obvious signifigance in comparing the 
 
 Unfortunately, with the publically available datasets, I cannot determine **why** Cabell and Logan counties have the highest reports of drug overdose deaths rates. Although we cannot find the root cause, there are still measures we can take to decrease the death rates in these communities. 
 
-**Resolution:** what can we do to decrease drug overdoses in the United States?
+**Resolution:** 
+What can we do to decrease drug overdoses in West Virginia?
 West Virginia attempted to decrease drug overdose deaths when the state enacted the [Senate Bill 273 -- The Opiod Reduction Act](https://wvbom.wv.gov/LegislativeChangesAffectOpioid.asp)  in 2018, aimed at reducing opiod prescriptions. Unfortunately, as we can see below, the number of opiod overdose deaths per 100,000 dipped slightly in 2019, before jumping in 2020, and again in 2021. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12013640">
@@ -88,8 +89,7 @@ Naloxone hydrochloride (commonly referred to as the brand Narcan) is known to re
 </div>
 
 
-Increasing availability and education in administration could decrease the number of drug overdose deaths. Although expanding Naloxone hydrochloride availability and education in adminstration would not treat the underlying problem, it would decrease overall drug overdose deaths. 
-
+Increasing availability and education in administration could decrease the number of drug overdose deaths. Although expanding Naloxone hydrochloride availability and education in adminstration would not treat the underlying problem, it would decrease overall drug overdose deaths. In 40% of overdoses, there is a bystander at the [scene](https://www.cdc.gov/stopoverdose/naloxone/index.html). If these bystanders were able to administer Naloxone hydrochloride, the overdose deaths more than likely could have been prevented.
 
 ### User research: protocol
 The goal of the research is to gauge audience understanding of the wireframes and storyboard. 
