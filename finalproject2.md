@@ -128,13 +128,15 @@ The goal of the research is to gauge audience understanding of the wireframes an
 2. Female, 58 Years Old, Emergency Department Nurse/Research Coordinator
 3. Male, 26 Years Old, Student
 
-**b.** The findings of my interview
-
 | Question | Person 1 | Person 2 | Person 3 |
 | --- | --- |
-| `What did you gather from this information?` | I have a better understanding of the overdoses sitution in the US | I saw overdoses in the US | FILL
-| `git diff` | Show file differences that **haven't been** staged |
+| `What did you gather from this information?` | I have a better understanding of the overdoses sitution in the US | I saw overdoses in the US | I learned more about overdoses in West Virginia.
+| `What stands out to you?` | I'm still stuck by the Narcan. Administering Naloxone hydrochloride has a negative stigma. Some people have pushed back asking 'why save someone who's just going to use again?' | I'm surprised that Missouri's rate isn't higher. I also thought California and Texas would be higher until I realized it's per capita. | I'm not surprised that West Virginia has the highest because I watched a documentary on Netflix about it a couple of years ago, but it's surprising that the states surrounding West Virginia don't have higher rates. I didn't realize how many states have high overdose numbers. 
+| `Is there anything you would change about my delivery?` | No, it was all clear. | I would look more into the medical industry. I know when I worked in the SICU we had issues with nurses either using the drugs, or stealing them to sell them. | Even though there weren't a lot in the findings, I liked that you went through your thought process for finding the root cause.  
+| `is information alarming or expected?` | It's definitely alarming. I don't think there's a lot of information about this out there. | I'm really surprised that the numbers are so high. I didn't realize these numbers were that high. I don't know anyone who uses so I'm shocked that there are so many overdoses.  | The numbers are alarming, but also not surprising because I've been seeing more about it over the past couple of years. 
+| `If this information portrayed your local area, how would you react?` | I'd look for organizations that I could work with or volunteer at to try to decrease overdoses in my area. | If this were happening in my community it would be helpful to know if this is a problem, and what are we doing to help it?  | I would want to know what my local government is doing. 
 
+**b.** The findings of my interview
 
 -The scale of the overdose epidemic was unknown to all of the people I interviewed, even to the one who works in the Emergency Department at a hospital. When there is little awareness over the scale of any issue, it's difficult to garner public support. Without public knowledge and support, it's more difficult to implement meaningful changes. 
 
