@@ -91,9 +91,6 @@ Naloxone hydrochloride (commonly referred to as the brand Narcan) is known to re
 Increasing availability and education in administration could decrease the number of drug overdose deaths. Although expanding Naloxone hydrochloride availability and education in adminstration would not treat the underlying problem, it would decrease overall drug overdose deaths. 
 
 
-### Design: data visualizations
-Data visualizations are identified, and sketches include examples of how the real data might be rendered. Data visualizations are appropriate for the project, and of sufficient quantity and quality to tell a compelling story. Important elements like titles, annotations, legends, captions, axis, data source and other elements are referenced and used appropriately.
-
 ### User research: protocol
 The goal of the research is to gauge audience understanding of the wireframes and storyboard. 
 **a.** the target audience I hope to reach with my story is people who live within the communities with the highest drug-issues so they can understand the situation in their local area. This may motivate locals to support their local drug overdose prevention organizations.  
