@@ -8,16 +8,16 @@ Sources
 
 **Setup:** 
 Where in the United States is the drug overdose problem the worst?
-<div class='tableauPlaceholder' id='viz1669774309589' style='position: relative'><noscript><a href='#'><img alt='Drug Overdose Deaths, 2021  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;46&#47;46PWHBF52&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;46PWHBF52' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;46&#47;46PWHBF52&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+<div class='tableauPlaceholder' id='viz1669866859473' style='position: relative'><noscript><a href='#'><img alt='Sheet 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_16698668356120&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book1_16698668356120&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_16698668356120&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
-  var divElement = document.getElementById('viz1669774309589');
+  var divElement = document.getElementById('viz1669866859473');
   var vizElement = divElement.getElementsByTagName('object')[0];
   vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-**DATA SOURCE:** [National Vital Statistics System](https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm)
+**DATA SOURCE:** [National Center For Health Statistics](https://www.cdc.gov/nchs/pressroom/sosmap/drug_poisoning_mortality/drug_poisoning.htm)
 
 The Center for Disease Control and Prevention's National Vital Statistics System [(NVSS)](https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm) counts drug overdose deaths occurring within the 50 states and the District of Columbia. The data is submitted by states, who pull overdose death statistics from death certificates, and send reports to the National Center for Health Statistics (NCHS). 
 
@@ -120,7 +120,7 @@ The goal of the research is to gauge audience understanding of the wireframes an
 **2. What stands out to you?**
 I was surprised Missouri wasn't higher. I was also surprised West Virginia was so high. I would've expected California, New York, and Texas to be higher. 
 **3. Is there anything you would change about my delivery?**
--No. All clear and easy to follow
+-No changes to the current information. I would look into the healthcare occupation. I've worked with 2 nurses who overdosed during their shift, and another nurse went to rehab. 
 **4. Is this information alarming or expected?**
 Alarming to me. Because I'm not familiar with anybody taking drugs so I wasn't anticipating that it's affecting that many people. 
 **5. If this information portrayed your local area, how would you react?**
@@ -138,7 +138,8 @@ It would be helpful to know if this is a community problem, and what are we doin
 **b.** The findings of my interview are:
 including specific insights and observations, key quotes and other learnings.
 
-**c.** changes you plan on implementing to your visualizations next week to address the issues identified. (address any issues raised in the user research.)
+**c.** Changes I plan on implementing to your visualizations next week to address the issues identified:
+-I want to look further into the heathcare industry to see if there is a relationship between higher numbers per capita in the healthcare industry and higher numbers of drug overdose deaths per capita. 
 
 
 ### Resources
