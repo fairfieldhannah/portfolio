@@ -4,6 +4,8 @@ See my github [portfolio](https://fairfieldhannah.github.io/portfolio)
 
 See my [Project 1](https://fairfieldhannah.github.io/portfolio/finalproject1.html)
 
+# **CONTENT WARNING: DRUG OVERDOSE DEATHS **
+
 ### Wireframes and storyboards
 
 With the increase in drug overdose deaths, the US Centers for Disease Control and Prevention's Injury Prevention & Control office states that the US is in an ["overdose crisis"](https://www.cdc.gov/drugoverdose/featured-topics/overdose-prevention-campaigns.html). Because many drug overdoses involve multiple types of drugs, I'm looking at all drug overdose deaths in 2021. 
@@ -90,17 +92,17 @@ West Virginia attempted to decrease drug overdose deaths when the state enacted 
 
 If legislation regarding the number of opioid prescriptions cannot better the situation, what can?
 
-Naloxone hydrochloride (commonly referred to as the brand Narcan) is known to reverse the effects of a drug overdose. 
+Naloxone hydrochloride (commonly referred to as the brand Narcan) is known to reverse the effects of a drug overdose. A [study in San Francisco]((https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005091/) found that when naloxone hydrochrolide is administered, 89% of overdoses are reversed. 
 
 <div class="infogram-embed" data-id="9546f619-5bd4-4884-99bc-5b8ae1c8ff3f" data-type="interactive" data-title="Pictoral Chart"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/9546f619-5bd4-4884-99bc-5b8ae1c8ff3f" style="color:#989898!important;text-decoration:none!important;" target="_blank">Pictoral Chart</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
 
-Increasing availability and education in administration could decrease the number of drug overdose deaths. Although expanding Naloxone hydrochloride availability and education in adminstration would not treat the underlying problem, it would decrease overall drug overdose deaths. In 40% of overdoses, there is a bystander at the [scene](https://www.cdc.gov/stopoverdose/naloxone/index.html). If these bystanders were able to administer Naloxone hydrochloride, the overdose deaths more than likely could have been prevented.
+Increasing availability and education in administration could decrease the number of drug overdose deaths. Although expanding naloxone hydrochloride availability and education in adminstration would not treat the underlying problem, it would decrease overall drug overdose deaths. In 40% of overdoses, there is a bystander at the [scene](https://www.cdc.gov/stopoverdose/naloxone/index.html). If these bystanders were able to administer Naloxone hydrochloride, the overdose deaths more than likely could have been prevented.
 
 ### User research: protocol
-The goal of the research is to gauge audience understanding of the wireframes and storyboard. 
+The goal of this research is to explore why drug overdoses are more prevelent in some places, and what we can do to decrease drug overdose deaths. The goal of the below interviews are to gauge audience understanding of the wireframes and storyboard. 
 
-**a.** the target audience I hope to reach with my story is people who live within the communities with the highest drug-issues so they can understand the situation in their local area. This may motivate locals to support their local drug overdose prevention organizations, and carry naloxone hydrochloride.  
+**a.** the target audience I hope to reach with my story is people who live within the communities with the highest drug issues so they can understand the situation in their local area. This may motivate locals to support their local drug overdose prevention organizations, and carry naloxone hydrochloride.  
 
 **b.** I want to get three people from completely different backgrounds and ages so that I can get as different of people to interview as possible. I want each person to be very different because I want them to provide their honest opinions in how the visualization impacts them. If people have the same background, it's likely that the visualization will impact them in similar ways. 
 
