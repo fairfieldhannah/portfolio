@@ -1,16 +1,14 @@
-# Final Project II
+# Final Project II -- CONTENT WARNING: DRUG OVERDOSE DEATHS
 
 See my github [portfolio](https://fairfieldhannah.github.io/portfolio)
 
-See my [Project 1](https://fairfieldhannah.github.io/portfolio/finalproject1.html)
-
-# CONTENT WARNING: DRUG OVERDOSE DEATHS
+See my [project 1](https://fairfieldhannah.github.io/portfolio/finalproject1.html)
 
 ### Wireframes and storyboards
 
 With the increase in drug overdose deaths, the US Centers for Disease Control and Prevention's Injury Prevention & Control office states that the US is in an ["overdose crisis"](https://www.cdc.gov/drugoverdose/featured-topics/overdose-prevention-campaigns.html). Because many drug overdoses involve multiple types of drugs, I'm looking at all drug overdose deaths in 2021. 
 
-#### **Setup:** 
+#### **Setup** 
 
 Where in the United States is the drug overdose problem the worst?
 <div class='tableauPlaceholder' id='viz1669868535912' style='position: relative'><noscript><a href='#'><img alt='Overdose Deaths by State, 2021 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_16698668356120&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book1_16698668356120&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_16698668356120&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
@@ -41,7 +39,7 @@ Source: [West Virginia Office of Drug Control Policy Data Dashboard](https://dhh
 
 According to the data, Cabell county had the highest overall number of overdose deaths in 2021, but Logan County had the highest number of overdose deaths per 100,000. 
 
-#### **Conflict:** 
+#### **Conflict** 
 
 To explore what factors influence counties to have bigger issues with drug overdoses, first I looked at unemployment rates by county. I used a packed bubbles chart to see if there is a relationship between the overdose deaths per 100,000 and unemployment rates in each county. I didn't notice any significant similarities between counties with high levels of unemployment and high levels of drug overdose deaths. The only county that is both in the top five of deaths per 100,000, and has a high unemployment rate is McDowell county. Because one county is not sufficient evidence to claim unemployment contributes to overdose deaths, I decided to look at additional data to get a better understanding of why one county has a higher overdose death rate than another.
 <div class='tableauPlaceholder' id='viz1669834857191' style='position: relative'><noscript><a href='#'><img alt='Drug Overdose Deaths Per 100,000 and Unemployment Rate by County, 2021 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book11_16698348468280&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book11_16698348468280&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book11_16698348468280&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
@@ -80,7 +78,7 @@ This bar chart does not seem to yield any obvious signifigance in comparing the 
 
 Unfortunately, with the publically available datasets, I cannot determine **why** Cabell and Logan counties have the highest reports of drug overdose deaths rates. Although we cannot find the root cause, there are still measures we can take to decrease the death rates in these communities. 
 
-#### **Resolution:** 
+#### **Resolution** 
 
 What can we do to decrease drug overdoses in West Virginia?
 West Virginia attempted to decrease drug overdose deaths when the state enacted the [Senate Bill 273 -- The Opioid Reduction Act](https://wvbom.wv.gov/LegislativeChangesAffectOpioid.asp)  in 2018, aimed at reducing opioid prescriptions. Unfortunately, as we can see below, the number of opioid overdose deaths per 100,000 dipped slightly in 2019, before jumping in 2020, and again in 2021. 
@@ -99,7 +97,7 @@ Naloxone hydrochloride (commonly referred to as the brand Narcan) is known to re
 
 Increasing availability and education in administration could decrease the number of drug overdose deaths. Although expanding naloxone hydrochloride availability and education in adminstration would not treat the underlying problem, it would decrease overall drug overdose deaths. In 40% of overdoses, there is a bystander at the [scene](https://www.cdc.gov/stopoverdose/naloxone/index.html). If these bystanders were able to administer Naloxone hydrochloride, the overdose deaths more than likely could have been prevented.
 
-### User research: protocol
+### User Research: Protocol
 The goal of this research is to explore why drug overdoses are more prevelent in some places, and what we can do to decrease drug overdose deaths. The goal of the below interviews are to gauge audience understanding of the wireframes and storyboard. 
 
 **a.** the target audience I hope to reach with my story is people who live within the communities with the highest drug issues so they can understand the situation in their local area. This may motivate locals to support their local drug overdose prevention organizations, and carry naloxone hydrochloride.  
@@ -120,7 +118,7 @@ The goal of this research is to explore why drug overdoses are more prevelent in
 
 
 
-### User research: findings
+### User Research: Findings
 
 **a.** I interviewed the following three people:
 1. Male, 27 Years Old, Accountant
