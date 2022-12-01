@@ -19,7 +19,7 @@ Where in the United States is the drug overdose problem the worst?
 </script>
 **DATA SOURCE:** [National Center For Health Statistics](https://www.cdc.gov/nchs/pressroom/sosmap/drug_poisoning_mortality/drug_poisoning.htm)
 
-The Center for Disease Control and Prevention's National Vital Statistics System [(NVSS)](https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm) counts drug overdose deaths occurring within the 50 states and the District of Columbia. The data is submitted by states, who pull overdose death statistics from death certificates, and send reports to the National Center for Health Statistics (NCHS). 
+The Center for Disease Control and Prevention's National Vital Statistics System [(NVSS)](https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm) counts drug overdose deaths occurring within the 50 states and the District of Columbia. The data is submitted by states, who pull overdose death statistics from death certificates, compile and send reports to the National Center for Health Statistics (NCHS). 
 
 We can see that West Virginia has the highest number of drug overdoses per 100,000. To better understand why West Viriginia has the highest number of overdoses from states that reported to NCHS, we can see where in West Virginia the overdoses are occuring.
 
