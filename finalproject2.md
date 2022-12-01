@@ -120,7 +120,7 @@ The goal of the research is to gauge audience understanding of the wireframes an
 **a.** I interviewed the following three people:
 1. Male, 27 Years Old, Accountant
 2. Female, 58 Years Old, Emergency Department Nurse/Research Coordinator
-3. 
+3. Male, 26 Years Old, Student
 
 **b.** The findings of my interview are:
 -The scale of the overdose epidemic was unknown to all of the people I interviewed, even to the one who works in the Emergency Department at a hospital. When there is little awareness over the scale of any issue, it's difficult to garner public support. Without public knowledge and support, it's more difficult to implement meaningful changes. 
@@ -133,6 +133,7 @@ The goal of the research is to gauge audience understanding of the wireframes an
  
 
 **c.** Changes I plan on implementing to your visualizations next week to address the issues identified:
+
 I want to look further into the heathcare industry to see if there is a relationship between higher numbers per capita in the healthcare industry and higher numbers of drug overdose deaths per capita. 
 
 
