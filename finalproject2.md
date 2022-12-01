@@ -47,6 +47,7 @@ To explore what factors influence counties to have bigger issues with drug overd
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+**Date Sources** [West Virginia Unemployment Data](http://lmi.workforcewv.org/DataRelease/CountyRelease.html) and [West Virginia Office of Drug Control Policy Data Dashboard](https://dhhr.wv.gov/office-of-drug-control-policy/datadashboard/Pages/default.aspx)
 
 This led me to consider that perhaps one of the reasons for a county to have a higher overdose death rate is the jobs that people living in that county are are doing. Maybe if people are doing highly physical jobs then they're more likely to be injured and require a medical solution which would introduce them to addictive drugs that could lead to an overdose. 
 
@@ -60,6 +61,7 @@ First, I looked to what jobs are most common in West Virginia. Of the top 15 job
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+**Data Sources:** [West Virginia Economy](https://datausa.io/profile/geo/west-virginia#economy)
 
 Then, I looked by regions to see if any of these jobs correlate with the counties with high levels of drug overdose deaths. [West Virginia Workforce](http://lmi.workforcewv.org/Maps/GeographicalAreas.html) splits the state up in 7 workforce development regions. This is the lowest level that I could get data, so I'm using these regions instead of the indvidual county level. Workforce development region 2 has the highest average of overdose deaths. It includes Cabell county, Putname county, Wayne county, Loncoln county, Boone county, Logan county, and Mingo county.
 
@@ -74,14 +76,14 @@ Unfortunately, with the publically available datasets, I cannot determine **why*
 
 **Resolution:** 
 What can we do to decrease drug overdoses in West Virginia?
-West Virginia attempted to decrease drug overdose deaths when the state enacted the [Senate Bill 273 -- The Opiod Reduction Act](https://wvbom.wv.gov/LegislativeChangesAffectOpioid.asp)  in 2018, aimed at reducing opiod prescriptions. Unfortunately, as we can see below, the number of opiod overdose deaths per 100,000 dipped slightly in 2019, before jumping in 2020, and again in 2021. 
+West Virginia attempted to decrease drug overdose deaths when the state enacted the [Senate Bill 273 -- The Opioid Reduction Act](https://wvbom.wv.gov/LegislativeChangesAffectOpioid.asp)  in 2018, aimed at reducing opioid prescriptions. Unfortunately, as we can see below, the number of opioid overdose deaths per 100,000 dipped slightly in 2019, before jumping in 2020, and again in 2021. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12013640">
   <script src="https://public.flourish.studio/resources/embed.js">
   </script>
 </div>
 
-If legislation regarding the number of opiod prescriptions cannot better the situation, what can?
+If legislation regarding the number of opioid prescriptions cannot better the situation, what can?
 
 Naloxone hydrochloride (commonly referred to as the brand Narcan) is known to reverse the effects of a drug overdose. 
 
@@ -96,25 +98,11 @@ Increasing availability and education in administration could decrease the numbe
 ### User research: protocol
 The goal of the research is to gauge audience understanding of the wireframes and storyboard. 
 
-**a.** the target audience I hope to reach with my story is people who live within the communities with the highest drug-issues so they can understand the situation in their local area. This may motivate locals to support their local drug overdose prevention organizations, and carry Naloxone hydrochloride.  
+**a.** the target audience I hope to reach with my story is people who live within the communities with the highest drug-issues so they can understand the situation in their local area. This may motivate locals to support their local drug overdose prevention organizations, and carry naloxone hydrochloride.  
 
-**b.** I want to get three people from completely different backgrounds, races, and ages so that I can get as different of people to interview as possible. I want each person to be very different because I want them to provide their honest opinions in how the visualization impacts them. If people have the same background, it's likely that the visualization will impact them in similar ways. 
+**b.** I want to get three people from completely different backgrounds and ages so that I can get as different of people to interview as possible. I want each person to be very different because I want them to provide their honest opinions in how the visualization impacts them. If people have the same background, it's likely that the visualization will impact them in similar ways. 
 
 **c.** My interview script is:
-1. What is the visualization portraying?
--The Us dark/light for overdose deaths. 
--
-3. What stands out to you in this visualization?
--i'm surprised missouri is light. WV and alaska are very dark. the neighboring states aren't as dark
--I expected to see higher populations with higher drug overdoses than rural
-5. Is there anything you would change about this visualization?
--no
-7. Is this information alarming or expected? 
--did not expect it, see above. problem in every state regardless of size
-9. If this information portrayed your local area, how would you react?
--I would hope our state government is doing somethng to help with education on drugs
-
-
 **1. What did you gather from this information?**
 -I learned more about the drug overdoses in the county
 **2. What stands out to you?**
@@ -136,17 +124,32 @@ It would be helpful to know if this is a community problem, and what are we doin
 3. 
 
 **b.** The findings of my interview are:
-including specific insights and observations, key quotes and other learnings.
+-The scale of the overdose epidemic was unknown to all of the people I interviewed, even to the one who works in the Emergency Department at a hospital. When there is little awareness over the scale of any issue, it's difficult to garner public support. Without public knowledge and support, it's more difficult to implement meaningful changes. 
+ **"If this were happening in my community it would be helpful to know if this is a problem, and what are we doing to help it?"**
+
+-Although naloxone hydrochloride is proven to reverse overdose there is a stigma around using it. The stigma for family/friends of opioid-users is likely to differ from the stigma of opioid users. Opioid users may feel uncomfortable or embarassed telling their family/friends that they want naloxone hydrochloride. Family/friends may avoid bringing up naloxone hydrochloride to avoid offending their opioid-using loved ones. 
+**"Administering Naloxone hydrochloride has a negative stigma. Some people have pushed back asking 'why save someone who's just going to use again?'"**
+ 
 
 **c.** Changes I plan on implementing to your visualizations next week to address the issues identified:
--I want to look further into the heathcare industry to see if there is a relationship between higher numbers per capita in the healthcare industry and higher numbers of drug overdose deaths per capita. 
+I want to look further into the heathcare industry to see if there is a relationship between higher numbers per capita in the healthcare industry and higher numbers of drug overdose deaths per capita. 
 
 
 ### Resources
+[Centers for Disease Control and Prevention Overdose Prevention Campaigns](https://www.cdc.gov/drugoverdose/featured-topics/overdose-prevention-campaigns.html)
+
+[National Center For Health Statistics](https://www.cdc.gov/nchs/pressroom/sosmap/drug_poisoning_mortality/drug_poisoning.htm)
+
 [US Population](https://www.census.gov/quickfacts/fact/map)
 
 [West Virginia Population](https://www.census.gov/quickfacts/fact/map/WV,CA/POP645220) 
 
 [West Virginia Drinking Statistics](https://datausa.io/profile/geo/west-virginia#economy)
 
+[West Virginia Office of Drug Control Policy Data Dashboard](https://dhhr.wv.gov/office-of-drug-control-policy/datadashboard/Pages/default.aspx)
+
 [West Virginia Unemployment](http://lmi.workforcewv.org/DataRelease/CountyRelease.html)
+
+[CDC Naloxone](https://www.cdc.gov/stopoverdose/naloxone/index.html)
+
+[West Virginia Legislation Changes](https://wvbom.wv.gov/LegislativeChangesAffectOpioid.asp)
