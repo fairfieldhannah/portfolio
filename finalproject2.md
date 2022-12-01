@@ -128,7 +128,14 @@ The goal of the research is to gauge audience understanding of the wireframes an
 2. Female, 58 Years Old, Emergency Department Nurse/Research Coordinator
 3. Male, 26 Years Old, Student
 
-**b.** The findings of my interview are:
+**b.** The findings of my interview
+
+| Question | Person 1 | Person 2 | Person 3 |
+| --- | --- |
+| `What did you gather from this information?` | I have a better understanding of the overdoses sitution in the US | I saw overdoses in the US | FILL
+| `git diff` | Show file differences that **haven't been** staged |
+
+
 -The scale of the overdose epidemic was unknown to all of the people I interviewed, even to the one who works in the Emergency Department at a hospital. When there is little awareness over the scale of any issue, it's difficult to garner public support. Without public knowledge and support, it's more difficult to implement meaningful changes. 
 
  **"If this were happening in my community it would be helpful to know if this is a problem, and what are we doing to help it?"**
