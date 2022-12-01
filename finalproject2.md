@@ -68,10 +68,18 @@ Then, I looked by regions to see if any of these jobs correlate with the countie
 
 This bar chart does not seem to yield any obvious signifigance in comparing the regions percentage of workforce in physically demanding jobs with counties' overdose death rates. 
 
-Because many drug overdose deaths involve at least one opiod, I would like to next look at the levels of prescribed opiods across counties in West Virginia. 
+Because many drug overdose deaths involve at least one opiod, I would like to next look at the levels of prescribed opiods across counties in West Virginia. Unfortunately, I cannot find a public dataset with this information. 
 
 **Resolution:** what can we do to decrease drug overdoses in the United States?
--Educate prescription writers on avoiding prescribing opiods, and signs to look for if they suspect a patient is abusing their prescribed drugs. OPIOD REDUCTION ACT 2018
+I did see, however, that West Virginia enacted the [Senate Bill 273 -- The Opiod Reduction Act](https://wvbom.wv.gov/LegislativeChangesAffectOpioid.asp)  in 2018, aimed at reducing opiod prescriptions. Unfortunately, as we can see below, the number of opiod overdose deaths per 100,000 dipped slightly in 2019, before jumping in 2020, and again in 2021. 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/12013640">
+  <script src="https://public.flourish.studio/resources/embed.js">
+  </script>
+</div>
+
+One reason for this may be that doctors started to limit opiod prescriptions, those addicted could not get their usual fix, so they turned in street drugs which tend to have higher levels of fentynol. Fentyonl is known to kill. If legislation regarding the number of opiod prescriptions cannot better the situation, what can?
+
 -Walk up clinics in high risk areas
 -Narcan education
 
