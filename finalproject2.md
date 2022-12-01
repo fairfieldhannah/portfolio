@@ -66,7 +66,7 @@ Then, I looked by regions to see if any of these jobs correlate with the countie
   </script>
 </div>
 
-
+This bar chart does not seem yield any obvious signifigance in comparing the regions percentage of workforce in physically demanding jobs with counties' overdose death rates. 
 
 **Resolution:** what can we do to decrease drug overdoses in the United States?
 -Walk up clinics in high risk areas
