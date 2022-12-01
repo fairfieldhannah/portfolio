@@ -68,7 +68,10 @@ Then, I looked by regions to see if any of these jobs correlate with the countie
 
 This bar chart does not seem to yield any obvious signifigance in comparing the regions percentage of workforce in physically demanding jobs with counties' overdose death rates. 
 
+Because many drug overdose deaths involve at least one opiod, I would like to next look at the levels of prescribed opiods across counties in West Virginia. 
+
 **Resolution:** what can we do to decrease drug overdoses in the United States?
+-Educate prescription writers on avoiding prescribing opiods, and signs to look for if they suspect a patient is abusing their prescribed drugs. OPIOD REDUCTION ACT 2018
 -Walk up clinics in high risk areas
 -Narcan education
 
