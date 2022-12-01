@@ -104,15 +104,14 @@ The goal of the research is to gauge audience understanding of the wireframes an
 
 **c.** My interview script is:
 **1. What did you gather from this information?**
--I learned more about the drug overdoses in the county
+
 **2. What stands out to you?**
-I was surprised Missouri wasn't higher. I was also surprised West Virginia was so high. I would've expected California, New York, and Texas to be higher. 
+
 **3. Is there anything you would change about my delivery?**
--No changes to the current information. I would look into the healthcare occupation. I've worked with 2 nurses who overdosed during their shift, and another nurse went to rehab. 
+
 **4. Is this information alarming or expected?**
-Alarming to me. Because I'm not familiar with anybody taking drugs so I wasn't anticipating that it's affecting that many people. 
+
 **5. If this information portrayed your local area, how would you react?**
-It would be helpful to know if this is a community problem, and what are we doing to help it?
 
 
 
@@ -125,9 +124,11 @@ It would be helpful to know if this is a community problem, and what are we doin
 
 **b.** The findings of my interview are:
 -The scale of the overdose epidemic was unknown to all of the people I interviewed, even to the one who works in the Emergency Department at a hospital. When there is little awareness over the scale of any issue, it's difficult to garner public support. Without public knowledge and support, it's more difficult to implement meaningful changes. 
+
  **"If this were happening in my community it would be helpful to know if this is a problem, and what are we doing to help it?"**
 
--Although naloxone hydrochloride is proven to reverse overdose there is a stigma around using it. The stigma for family/friends of opioid-users is likely to differ from the stigma of opioid users. Opioid users may feel uncomfortable or embarassed telling their family/friends that they want naloxone hydrochloride. Family/friends may avoid bringing up naloxone hydrochloride to avoid offending their opioid-using loved ones. 
+-Although naloxone hydrochloride is proven to reverse overdose there is a stigma around using it. The stigma for family/friends of opioid-users is likely to differ from the stigma of opioid users. Opioid users may feel uncomfortable or embarassed telling their family/friends that they want naloxone hydrochloride. Family/friends may avoid bringing up naloxone hydrochloride to avoid offending their opioid-using loved ones.
+
 **"Administering Naloxone hydrochloride has a negative stigma. Some people have pushed back asking 'why save someone who's just going to use again?'"**
  
 
