@@ -4,7 +4,7 @@ See my github [portfolio](https://fairfieldhannah.github.io/portfolio)
 
 See my [Project 1](https://fairfieldhannah.github.io/portfolio/finalproject1.html)
 
-# **CONTENT WARNING: DRUG OVERDOSE DEATHS **
+# CONTENT WARNING: DRUG OVERDOSE DEATHS
 
 ### Wireframes and storyboards
 
