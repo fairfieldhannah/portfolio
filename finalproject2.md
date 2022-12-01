@@ -109,7 +109,7 @@ The goal of the research is to gauge audience understanding of the wireframes an
 
 **a.** I interviewed the following three people:
 1. Male, 27 Years Old, Accountant
-2. Female, 57 Years Old, Emergency Department Nurse/Research Coordinator
+2. Female, 58 Years Old, Emergency Department Nurse/Research Coordinator
 3. 
 
 **b.** The findings of my interview are:
