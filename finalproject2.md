@@ -144,6 +144,9 @@ including specific insights and observations, key quotes and other learnings.
 
 ### Resources
 [US Population](https://www.census.gov/quickfacts/fact/map)
+
 [West Virginia Population](https://www.census.gov/quickfacts/fact/map/WV,CA/POP645220) 
+
 [West Virginia Drinking Statistics](https://datausa.io/profile/geo/west-virginia#economy)
+
 [West Virginia Unemployment](http://lmi.workforcewv.org/DataRelease/CountyRelease.html)
