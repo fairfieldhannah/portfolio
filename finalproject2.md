@@ -141,18 +141,20 @@ I want to look further into the heathcare industry to see if there is a relation
 ### Resources
 [Centers for Disease Control and Prevention Overdose Prevention Campaigns](https://www.cdc.gov/drugoverdose/featured-topics/overdose-prevention-campaigns.html)
 
-[National Center For Health Statistics](https://www.cdc.gov/nchs/pressroom/sosmap/drug_poisoning_mortality/drug_poisoning.htm)
+[Centers for Disease Control and Prevention's National Center For Health Statistics](https://www.cdc.gov/nchs/pressroom/sosmap/drug_poisoning_mortality/drug_poisoning.htm)
 
-[US Population](https://www.census.gov/quickfacts/fact/map)
+[US Census Bureau US Population](https://www.census.gov/quickfacts/fact/map)
 
-[West Virginia Population](https://www.census.gov/quickfacts/fact/map/WV,CA/POP645220) 
+[US Census Bureau West Virginia Population](https://www.census.gov/quickfacts/fact/map/WV,CA/POP645220) 
 
-[West Virginia Drinking Statistics](https://datausa.io/profile/geo/west-virginia#economy)
+[DataUSA West Virginia Drinking Statistics](https://datausa.io/profile/geo/west-virginia#economy)
 
-[West Virginia Office of Drug Control Policy Data Dashboard](https://dhhr.wv.gov/office-of-drug-control-policy/datadashboard/Pages/default.aspx)
+[DataUSA West Virginia Office of Drug Control Policy Data Dashboard](https://dhhr.wv.gov/office-of-drug-control-policy/datadashboard/Pages/default.aspx)
 
-[West Virginia Unemployment](http://lmi.workforcewv.org/DataRelease/CountyRelease.html)
+[WorkForce West Virginia Unemployment](http://lmi.workforcewv.org/DataRelease/CountyRelease.html)
 
-[CDC Naloxone](https://www.cdc.gov/stopoverdose/naloxone/index.html)
+[Centers for Disease Control and Prevention Naloxone](https://www.cdc.gov/stopoverdose/naloxone/index.html)
 
-[West Virginia Legislation Changes](https://wvbom.wv.gov/LegislativeChangesAffectOpioid.asp)
+[West Virginia Legislative Changes](https://wvbom.wv.gov/LegislativeChangesAffectOpioid.asp)
+
+[National Library of Medicine's National Center for Biotechnology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005091/)
