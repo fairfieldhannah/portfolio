@@ -106,10 +106,12 @@ The goal of the research is to gauge audience understanding of the wireframes an
 5. If this information portrayed your local area, how would you react?
 
 ### User research: findings
+
 **a.** I interviewed the following three people:
 1.
 2.
 3.
+
 **b.** The findings of my interview are:
 including specific insights and observations, key quotes and other learnings.
 
