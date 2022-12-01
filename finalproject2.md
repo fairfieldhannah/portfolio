@@ -103,6 +103,7 @@ The goal of the research is to gauge audience understanding of the wireframes an
 **b.** I want to get three people from completely different backgrounds and ages so that I can get as different of people to interview as possible. I want each person to be very different because I want them to provide their honest opinions in how the visualization impacts them. If people have the same background, it's likely that the visualization will impact them in similar ways. 
 
 **c.** My interview script is:
+
 **1. What did you gather from this information?**
 
 **2. What stands out to you?**
