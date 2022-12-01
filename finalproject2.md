@@ -16,7 +16,7 @@ Where in the United States is the drug overdose problem the worst?
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-**DATA SOURCE:** [National Center For Health Statistics](https://www.cdc.gov/nchs/pressroom/sosmap/drug_poisoning_mortality/drug_poisoning.htm)
+Source: [National Center For Health Statistics](https://www.cdc.gov/nchs/pressroom/sosmap/drug_poisoning_mortality/drug_poisoning.htm)
 
 The Center for Disease Control and Prevention's National Vital Statistics System [(NVSS)](https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm) counts drug overdose deaths occurring within the 50 states and the District of Columbia. The data is submitted by states, who pull overdose death statistics from death certificates, compile and send reports to the National Center for Health Statistics (NCHS). 
 
@@ -31,7 +31,7 @@ We can see that West Virginia has the highest number of drug overdoses per 100,0
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-**Data Source:** [West Virginia Office of Drug Control Policy Data Dashboard](https://dhhr.wv.gov/office-of-drug-control-policy/datadashboard/Pages/default.aspx)
+Source: [West Virginia Office of Drug Control Policy Data Dashboard](https://dhhr.wv.gov/office-of-drug-control-policy/datadashboard/Pages/default.aspx)
 
 According to the data, Cabell county had the highest overall number of overdose deaths in 2021, but Logan County had the highest number of overdose deaths per 100,000. 
 
@@ -47,7 +47,7 @@ To explore what factors influence counties to have bigger issues with drug overd
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-**Date Sources** [West Virginia Unemployment Data](http://lmi.workforcewv.org/DataRelease/CountyRelease.html) and [West Virginia Office of Drug Control Policy Data Dashboard](https://dhhr.wv.gov/office-of-drug-control-policy/datadashboard/Pages/default.aspx)
+Sources: [West Virginia Unemployment Data](http://lmi.workforcewv.org/DataRelease/CountyRelease.html) and [West Virginia Office of Drug Control Policy Data Dashboard](https://dhhr.wv.gov/office-of-drug-control-policy/datadashboard/Pages/default.aspx)
 
 This led me to consider that perhaps one of the reasons for a county to have a higher overdose death rate is the jobs that people living in that county are are doing. Maybe if people are doing highly physical jobs then they're more likely to be injured and require a medical solution which would introduce them to addictive drugs that could lead to an overdose. 
 
@@ -61,7 +61,7 @@ First, I looked to what jobs are most common in West Virginia. Of the top 15 job
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-**Data Sources:** [West Virginia Economy](https://datausa.io/profile/geo/west-virginia#economy)
+Source: [West Virginia Economy](https://datausa.io/profile/geo/west-virginia#economy)
 
 Then, I looked by regions to see if any of these jobs correlate with the counties with high levels of drug overdose deaths. [West Virginia Workforce](http://lmi.workforcewv.org/Maps/GeographicalAreas.html) splits the state up in 7 workforce development regions. This is the lowest level that I could get data, so I'm using these regions instead of the indvidual county level. Workforce development region 2 has the highest average of overdose deaths. It includes Cabell county, Putname county, Wayne county, Loncoln county, Boone county, Logan county, and Mingo county.
 
