@@ -1,10 +1,12 @@
-# Final Project II -- CONTENT WARNING: DRUG OVERDOSE DEATHS
+# Final Project III -- CONTENT WARNING: DRUG OVERDOSE DEATHS
 
 See my github [portfolio](https://fairfieldhannah.github.io/portfolio)
 
-See my [project 1](https://fairfieldhannah.github.io/portfolio/finalproject1.html)
+See my [final project part 1](https://fairfieldhannah.github.io/portfolio/finalproject1.html)
 
-### Wireframes and storyboards
+See my [final project part 2](https://fairfieldhannah.github.io/portfolio/finalproject2.html)
+
+### Background
 
 With the increase in drug overdose deaths, the US Centers for Disease Control and Prevention's Injury Prevention & Control office states that the US is in an ["overdose crisis"](https://www.cdc.gov/drugoverdose/featured-topics/overdose-prevention-campaigns.html). Because many drug overdoses involve multiple types of drugs, I'm looking at all drug overdose deaths in 2021. 
 
@@ -22,7 +24,7 @@ Where in the United States is the drug overdose problem the worst?
 </script>
 Source: [National Center For Health Statistics](https://www.cdc.gov/nchs/pressroom/sosmap/drug_poisoning_mortality/drug_poisoning.htm)
 
-The Center for Disease Control and Prevention's National Vital Statistics System [(NVSS)](https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm) counts drug overdose deaths occurring within the 50 states and the District of Columbia. The data is submitted by states, who pull overdose death statistics from death certificates, compile and send reports to the National Center for Health Statistics (NCHS). 
+The Center for Disease Control and Prevention's National Vital Statistics System [(NVSS)](https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm) counts drug overdose deaths occurring within the 50 states and the District of Columbia. The data is submitted by states, who pull overdose death statistics from death certificates, compile and send reports to the National Center for Health Statistics [(NCHS)](https://www.cdc.gov/nchs/pressroom/sosmap/drug_poisoning_mortality/drug_poisoning.htm). 
 
 We can see that West Virginia has the highest number of drug overdoses per 100,000. To better understand why West Viriginia has the highest number of overdoses from states that reported to NCHS, we can see where in West Virginia the overdoses are occuring.
 
@@ -76,7 +78,28 @@ Then, I looked by regions to see if any of these jobs correlate with the countie
 
 This bar chart does not seem to yield any obvious signifigance in comparing the regions percentage of workforce in physically demanding jobs with counties' overdose death rates. 
 
-Unfortunately, with the publically available datasets, I cannot determine **why** Cabell and Logan counties have the highest reports of drug overdose deaths rates. Although we cannot find the root cause, there are still measures we can take to decrease the death rates in these communities. 
+In my [final project part 2](https://fairfieldhannah.github.io/portfolio/finalproject2.html), I interviewed a nurse to get use feedback. When I told her that there wasn't a strong relationship between counties with high rates of highly physical jobs and high rates of drug overdose deaths, she asked me how many people are employeed in the medical industry. In her experience, nurses and doctors had easy acess to the drugs and typically abused the availability. 
+
+Because of that, I decided to look into board disciplinary actions for nurses and doctors. Because the West Virginia Registered Nurse Board only releases when nurses are suspended and not what they are suspended for, I looked solely at reasons for disciplinary actions for doctors in West Virginia. 
+
+<div class='tableauPlaceholder' id='viz1670115465514' style='position: relative'><noscript><a href='#'><img alt='West Virginia Board of Medicine Disciplinary Actions, 2021 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book13_16701153397020&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book13_16701153397020&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book13_16701153397020&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+    <script type='text/javascript'>
+      var divElement = document.getElementById('viz1670115465514');
+      var vizElement = divElement.getElementsByTagName('object')[0];
+      izElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+      var scriptElement = document.createElement('script');
+      scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+      vizElement.parentNode.insertBefore(scriptElement, vizElement);
+    </script>
+Source: [West Virginia Board of Medicine](https://wvbom.wv.gov/public/board-actions.asp)
+
+Of the 18 total disciplinary actions, excluding issues involving administrative fees and educational requirements, brought to the board in 2021, 7 of them were because of issues with controlled substances. Almost 40% of disciplinary actions for West Virginia's doctors in 2021 involved controlled substances. In 2018, the United States House Energy and Commerce Committee completed an [investigation](https://republicans-energycommerce.house.gov/opioids-pilldumping/) on 'pill dumping' into West Virginia. Through this investigation, they found fault with doctors, pharmacies, distribution companies, and the Drug Enforcement Agency for the pill dumping problem in West Virginia. Pill dumping is [defined](https://www.cbsnews.com/news/whats-a-pill-mill/) as "a doctor, clinic or pharmacy that is prescribing or dispensing powerful narcotics inappropriately or for non-medical reasons". 
+
+
+
+
+
+Although we cannot find the root cause, there are still measures we can take to decrease the death rates in these communities. 
 
 #### **Resolution** 
 
