@@ -90,7 +90,7 @@ West Virginia attempted to decrease drug overdose deaths when the state enacted 
 
 If legislation regarding the number of opioid prescriptions cannot better the situation, what can?
 
-Naloxone hydrochloride (commonly referred to as the brand Narcan) is known to reverse the effects of a drug overdose. A [study in San Francisco]((https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005091/) found that when naloxone hydrochrolide is administered, 89% of overdoses are reversed. 
+Naloxone hydrochloride (commonly referred to as the brand Narcan) is known to reverse the effects of a drug overdose. A [study in San Francisco](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005091/) found that when naloxone hydrochrolide is administered, 89% of overdoses are reversed. 
 
 <div class="infogram-embed" data-id="9546f619-5bd4-4884-99bc-5b8ae1c8ff3f" data-type="interactive" data-title="Pictoral Chart"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/9546f619-5bd4-4884-99bc-5b8ae1c8ff3f" style="color:#989898!important;text-decoration:none!important;" target="_blank">Pictoral Chart</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
