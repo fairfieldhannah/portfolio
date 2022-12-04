@@ -83,14 +83,14 @@ In my [final project part 2](https://fairfieldhannah.github.io/portfolio/finalpr
 Because of that, I decided to look into board disciplinary actions for nurses and doctors. Because the West Virginia Registered Nurse Board only releases when nurses are suspended and not what they are suspended for, I looked solely at reasons for disciplinary actions for doctors in West Virginia. 
 
 <div class='tableauPlaceholder' id='viz1670115465514' style='position: relative'><noscript><a href='#'><img alt='West Virginia Board of Medicine Disciplinary Actions, 2021 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book13_16701153397020&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book13_16701153397020&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book13_16701153397020&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
-    <script type='text/javascript'>
-      var divElement = document.getElementById('viz1670115465514');
-      var vizElement = divElement.getElementsByTagName('object')[0];
-      izElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-      var scriptElement = document.createElement('script');
-      scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-      vizElement.parentNode.insertBefore(scriptElement, vizElement);
-    </script>
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1670115465514');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 Source: [West Virginia Board of Medicine](https://wvbom.wv.gov/public/board-actions.asp)
 
 Of the 18 total disciplinary actions, excluding issues involving administrative fees and educational requirements, brought to the board in 2021, 7 of them were because of issues with controlled substances. Almost 40% of disciplinary actions for West Virginia's doctors in 2021 involved controlled substances. In 2018, the United States House Energy and Commerce Committee completed an [investigation](https://republicans-energycommerce.house.gov/opioids-pilldumping/) on 'pill dumping' into West Virginia. Through this investigation, they found fault with doctors, pharmacies, distribution companies, and the Drug Enforcement Agency for the pill dumping problem in West Virginia. Pill dumping is [defined](https://www.cbsnews.com/news/whats-a-pill-mill/) as "a doctor, clinic or pharmacy that is prescribing or dispensing powerful narcotics inappropriately or for non-medical reasons". Consider Mount Gay-Shamrock in Logan county with a population of 1,430. 17,000,000 opioids were distributed there over 10 years to 1 [pharmacy](https://republicans-energycommerce.house.gov/opioids-pilldumping/). That's 11,888 pills per resident. If you were to line all of those pills up in a row, it would stretch 264 miles long. That's further than the distance from Pittsburgh to Washington DC. 
