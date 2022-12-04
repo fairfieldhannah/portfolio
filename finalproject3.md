@@ -168,6 +168,10 @@ The goal of this research is to explore why drug overdoses are more prevelent in
 
 I want to look further into the heathcare industry to see if there is a relationship between higher numbers per capita in the healthcare industry and higher numbers of drug overdose deaths per capita. 
 
+### Summary of Changes After Completion of Part II
+The audience for my final data story is local community members for communities impacted by the opioid overdose. After seeing the failures at levels with doctors, pharmacies, distributors, and DEA, it's really important that local communities understand how to protect themselves against a drug overdose. Be cautious when doctors prescribe you with opioids, and if you do have to take them then make sure your friends and family are trained and equipped with naloxone hydrochloride. 
+
+The biggest adjustment from my project 2 to project 3 stemmed from my interviewee who is a nurse. She recommended that I looked into the medical industry, specifically at doctors and nurses. This opened to door to pill mills, which then lead me to the House Committee investigation looking specifically at West Virginia. I wanted to use a dark design on my shorthand page because we are discussing death and death is a dark topic.  
 
 ### Resources
 [Centers for Disease Control and Prevention Overdose Prevention Campaigns](https://www.cdc.gov/drugoverdose/featured-topics/overdose-prevention-campaigns.html)
