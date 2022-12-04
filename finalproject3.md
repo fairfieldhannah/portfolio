@@ -93,13 +93,8 @@ Because of that, I decided to look into board disciplinary actions for nurses an
     </script>
 Source: [West Virginia Board of Medicine](https://wvbom.wv.gov/public/board-actions.asp)
 
-Of the 18 total disciplinary actions, excluding issues involving administrative fees and educational requirements, brought to the board in 2021, 7 of them were because of issues with controlled substances. Almost 40% of disciplinary actions for West Virginia's doctors in 2021 involved controlled substances. In 2018, the United States House Energy and Commerce Committee completed an [investigation](https://republicans-energycommerce.house.gov/opioids-pilldumping/) on 'pill dumping' into West Virginia. Through this investigation, they found fault with doctors, pharmacies, distribution companies, and the Drug Enforcement Agency for the pill dumping problem in West Virginia. Pill dumping is [defined](https://www.cbsnews.com/news/whats-a-pill-mill/) as "a doctor, clinic or pharmacy that is prescribing or dispensing powerful narcotics inappropriately or for non-medical reasons". 
+Of the 18 total disciplinary actions, excluding issues involving administrative fees and educational requirements, brought to the board in 2021, 7 of them were because of issues with controlled substances. Almost 40% of disciplinary actions for West Virginia's doctors in 2021 involved controlled substances. In 2018, the United States House Energy and Commerce Committee completed an [investigation](https://republicans-energycommerce.house.gov/opioids-pilldumping/) on 'pill dumping' into West Virginia. Through this investigation, they found fault with doctors, pharmacies, distribution companies, and the Drug Enforcement Agency for the pill dumping problem in West Virginia. Pill dumping is [defined](https://www.cbsnews.com/news/whats-a-pill-mill/) as "a doctor, clinic or pharmacy that is prescribing or dispensing powerful narcotics inappropriately or for non-medical reasons". Consider Mount Gay-Shamrock in Logan county with a population of 1,430. 17,000,000 opioids were distributed there over 10 years to 1 [pharmacy](https://republicans-energycommerce.house.gov/opioids-pilldumping/). That's 11,888 pills per resident. If you were to line all of those pills up in a row, it would stretch 264 miles long. That's further than the distance from Pittsburgh to Washington DC. 
 
-
-
-
-
-Although we cannot find the root cause, there are still measures we can take to decrease the death rates in these communities. 
 
 #### **Resolution** 
 
