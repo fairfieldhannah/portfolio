@@ -12,7 +12,7 @@ See my [60 Second Shorthand Presentation](https://preview.shorthand.com/MgqHZkLE
 
 ### Background
 
-With the increase in drug overdose deaths, the US Centers for Disease Control and Prevention's Injury Prevention & Control office states that the US is in an ["overdose crisis"](https://www.cdc.gov/drugoverdose/featured-topics/overdose-prevention-campaigns.html). Because many drug overdoses involve multiple types of drugs, I'm looking at all drug overdose deaths in 2021. 
+With the increase in drug overdose deaths, the US Centers for Disease Control and Prevention's Injury Prevention & Control office states that the US is in an ["overdose crisis"](https://www.cdc.gov/drugoverdose/featured-topics/overdose-prevention-campaigns.html). Because many drug overdoses involve multiple types of drugs, I decided to look at all drug overdose deaths in 2021. 
 
 #### **Setup** 
 
@@ -82,7 +82,7 @@ Then, I looked by regions to see if any of these jobs correlate with the countie
 
 This bar chart does not seem to yield any obvious signifigance in comparing the regions percentage of workforce in physically demanding jobs with counties' overdose death rates. 
 
-In my [final project part 2](https://fairfieldhannah.github.io/portfolio/finalproject2.html), I interviewed a nurse to get use feedback. When I told her that there wasn't a strong relationship between counties with high rates of highly physical jobs and high rates of drug overdose deaths, she asked me how many people are employeed in the medical industry. In her experience, nurses and doctors had easy acess to the drugs and typically abused the availability. 
+In my [final project part 2](https://fairfieldhannah.github.io/portfolio/finalproject2.html), I interviewed a nurse to get use feedback. When I told her that there wasn't a strong relationship between counties with high rates of highly physical jobs and high rates of drug overdose deaths, she asked me how many people are employeed in the medical industry. In her experience, nurses and doctors had easy access to the drugs and typically abused the availability. 
 
 Because of that, I decided to look into board disciplinary actions for nurses and doctors. Because the West Virginia Registered Nurse Board only releases when nurses are suspended and not what they are suspended for, I looked solely at reasons for disciplinary actions for doctors in West Virginia. 
 
