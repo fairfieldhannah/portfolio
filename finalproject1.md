@@ -1,5 +1,7 @@
 # Accidental Drug Overdoses in the United States
 
+See my github [portfolio](https://fairfieldhannah.github.io/portfolio)
+
 ## Outline
 With the increase in drug overdose deaths, the US Centers for Disease Control and Prevention's Injury Prevention & Control office states that the US is in an "overdose crisis." Because this is such a prominent issue in the United States today, I'm looking at accidental drug overdose statistics. I want to start by exploring where in the United States accidental drug overdoses are most commonly occuring. A quick glance at the data shows that there are some municipalities that have more accidental drug overdoses than other municipalities. Next, I want to look at potential reasons for why accidental drug overdoses are more common in those municipalities. I plan to expand off of the [Center for Disease Control and Prevention's State Unintentional Drug Overdose Reporting System (SUDOR)](https://www.cdc.gov/drugoverdose/fatal/dashboard/index.html) by focusing on one of the states with the highest amount of accidental drug overdoses. I'd like to then look at crime datasets, and census datasets for the county with highest amount of drug overdoses. Finally, I want to explore what can be done to help those areas. 
 
