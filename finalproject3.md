@@ -6,9 +6,9 @@ See my [final project part 1](https://fairfieldhannah.github.io/portfolio/finalp
 
 See my [final project part 2](https://fairfieldhannah.github.io/portfolio/finalproject2.html)
 
-See my [Full Shorthand Presentation](https://preview.shorthand.com/62iYcOHEFVMs0YGy)
+See my [Full Shorthand Presentation](https://carnegiemellon.shorthandstories.com/drug-overdose-deaths-in-the-united-states/index.html)
 
-See my [60 Second Shorthand Presentation](https://preview.shorthand.com/MgqHZkLE9hEiic6x)
+See my [60 Second Shorthand Presentation](https://carnegiemellon.shorthandstories.com/drug-overdose-deaths-in-the-united-states/index.html)
 
 ### Background
 
