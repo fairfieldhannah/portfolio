@@ -6,7 +6,9 @@ See my [final project part 1](https://fairfieldhannah.github.io/portfolio/finalp
 
 See my [final project part 2](https://fairfieldhannah.github.io/portfolio/finalproject2.html)
 
-See my [Shorthand Presentation](https://preview.shorthand.com/62iYcOHEFVMs0YGy)
+See my [Full Shorthand Presentation](https://preview.shorthand.com/62iYcOHEFVMs0YGy)
+
+See my [60 Second Shorthand Presentation]()
 
 ### Background
 
@@ -117,56 +119,6 @@ Naloxone hydrochloride (commonly referred to as the brand Narcan) is known to re
 
 Increasing availability and education in administration could decrease the number of drug overdose deaths. Although expanding naloxone hydrochloride availability and education in adminstration would not treat the underlying problem, it would decrease overall drug overdose deaths. In 40% of overdoses, there is a bystander at the [scene](https://www.cdc.gov/stopoverdose/naloxone/index.html). If these bystanders were able to administer Naloxone hydrochloride, the overdose deaths more than likely could have been prevented.
 
-### User Research: Protocol
-The goal of this research is to explore why drug overdoses are more prevelent in some places, and what we can do to decrease drug overdose deaths. The goal of the below interviews are to gauge audience understanding of the wireframes and storyboard. 
-
-**a.** the target audience I hope to reach with my story is people who live within the communities with the highest drug issues so they can understand the situation in their local area. This may motivate locals to support their local drug overdose prevention organizations, and carry naloxone hydrochloride.  
-
-**b.** I want to get three people from completely different backgrounds and ages so that I can get as different of people to interview as possible. I want each person to be very different because I want them to provide their honest opinions in how the visualization impacts them. If people have the same background, it's likely that the visualization will impact them in similar ways. 
-
-**c.** My interview script is:
-
-**1. What did you gather from this information?**
-
-**2. What stands out to you?**
-
-**3. Is there anything you would change about my delivery?**
-
-**4. Is this information alarming or expected?**
-
-**5. If this information portrayed your local area, how would you react?**
-
-
-
-### User Research: Findings
-
-**a.** I interviewed the following three people:
-1. Male, 27 Years Old, Accountant
-2. Female, 58 Years Old, Emergency Department Nurse/Research Coordinator
-3. Male, 26 Years Old, Student
-
-| Question | Person 1 | Person 2 | Person 3 |
-| --- | --- |
-| `What did you gather from this information?` | I have a better understanding of the overdoses sitution in the US | I saw overdoses in the US | I learned more about overdoses in West Virginia.
-| `What stands out to you?` | I'm still stuck by the Narcan. Administering Naloxone hydrochloride has a negative stigma. Some people have pushed back asking 'why save someone who's just going to use again?' | I'm surprised that Missouri's rate isn't higher. I also thought California and Texas would be higher until I realized it's per capita. | I'm not surprised that West Virginia has the highest because I watched a documentary on Netflix about it a couple of years ago, but it's surprising that the states surrounding West Virginia don't have higher rates. I didn't realize how many states have high overdose numbers. 
-| `Is there anything you would change about my delivery?` | No, it was all clear. | I would look more into the medical industry. I know when I worked in the SICU we had issues with nurses either using the drugs, or stealing them to sell them. | Even though there weren't a lot in the findings, I liked that you went through your thought process for finding the root cause.  
-| `is information alarming or expected?` | It's definitely alarming. I don't think there's a lot of information about this out there. | I'm really surprised that the numbers are so high. I didn't realize these numbers were that high. I don't know anyone who uses so I'm shocked that there are so many overdoses.  | The numbers are alarming, but also not surprising because I've been seeing more about it over the past couple of years. 
-| `If this information portrayed your local area, how would you react?` | I'd look for organizations that I could work with or volunteer at to try to decrease overdoses in my area. | If this were happening in my community it would be helpful to know if this is a problem, and what are we doing to help it?  | I would want to know what my local government is doing. 
-
-**b.** The findings of my interview
-
--The scale of the overdose epidemic was unknown to all of the people I interviewed, even to the one who works in the Emergency Department at a hospital. When there is little awareness over the scale of any issue, it's difficult to garner public support. Without public knowledge and support, it's more difficult to implement meaningful changes. 
-
- **"If this were happening in my community it would be helpful to know if this is a problem, and what are we doing to help it?"**
-
--Although naloxone hydrochloride is proven to reverse overdose there is a stigma around using it. The stigma for family/friends of opioid-users is likely to differ from the stigma of opioid users. Opioid users may feel uncomfortable or embarassed telling their family/friends that they want naloxone hydrochloride. Family/friends may avoid bringing up naloxone hydrochloride to avoid offending their opioid-using loved ones.
-
-**"Administering Naloxone hydrochloride has a negative stigma. Some people have pushed back asking 'why save someone who's just going to use again?'"**
- 
-
-**c.** Changes I plan on implementing to your visualizations next week to address the issues identified:
-
-I want to look further into the heathcare industry to see if there is a relationship between higher numbers per capita in the healthcare industry and higher numbers of drug overdose deaths per capita. 
 
 ### Summary of Changes After Completion of Part II
 The audience for my final data story is local community members for communities impacted by the opioid overdose. After seeing the failures at levels with doctors, pharmacies, distributors, and DEA, it's really important that local communities understand how to protect themselves against a drug overdose. Be cautious when doctors prescribe you with opioids, and if you do have to take them then make sure your friends and family are trained and equipped with naloxone hydrochloride. 
@@ -174,23 +126,26 @@ The audience for my final data story is local community members for communities 
 The biggest adjustment from my project 2 to project 3 stemmed from my interviewee who is a nurse. She recommended that I looked into the medical industry, specifically at doctors and nurses. This opened to door to pill mills, which then lead me to the House Committee investigation looking specifically at West Virginia. I wanted to use a dark design on my shorthand page because we are discussing death and death is a dark topic.  
 
 ### Resources
+[Centers for Disease Control and Prevention Naloxone](https://www.cdc.gov/stopoverdose/naloxone/index.html)
+
 [Centers for Disease Control and Prevention Overdose Prevention Campaigns](https://www.cdc.gov/drugoverdose/featured-topics/overdose-prevention-campaigns.html)
 
 [Centers for Disease Control and Prevention's National Center For Health Statistics](https://www.cdc.gov/nchs/pressroom/sosmap/drug_poisoning_mortality/drug_poisoning.htm)
-
-[US Census Bureau US Population](https://www.census.gov/quickfacts/fact/map)
-
-[US Census Bureau West Virginia Population](https://www.census.gov/quickfacts/fact/map/WV,CA/POP645220) 
 
 [DataUSA West Virginia Drinking Statistics](https://datausa.io/profile/geo/west-virginia#economy)
 
 [DataUSA West Virginia Office of Drug Control Policy Data Dashboard](https://dhhr.wv.gov/office-of-drug-control-policy/datadashboard/Pages/default.aspx)
 
-[WorkForce West Virginia Unemployment](http://lmi.workforcewv.org/DataRelease/CountyRelease.html)
+Lauren Enteen, Joanna Bauer, Rachel McLean, Eliza Wheeler, Emalie Huriaux, Alex H. Kral, and Joshua D. Bamberger. [Overdose Prevention and Naloxone Prescription for Opioid Users in San Fransisco.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005091/).  October 22, 2010. 
 
-[Centers for Disease Control and Prevention Naloxone](https://www.cdc.gov/stopoverdose/naloxone/index.html)
-
-[West Virginia Legislative Changes](https://wvbom.wv.gov/LegislativeChangesAffectOpioid.asp)
+Malbran, Pia. What's a Pill Mill? [CBSNews.](https://www.cbsnews.com/news/whats-a-pill-mill/). May 31, 2007.
 
 [National Library of Medicine's National Center for Biotechnology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005091/)
 
+[US Census Bureau US Population](https://www.census.gov/quickfacts/fact/map)
+
+[US Census Bureau West Virginia Population](https://www.census.gov/quickfacts/fact/map/WV,CA/POP645220) 
+
+[WorkForce West Virginia Unemployment](http://lmi.workforcewv.org/DataRelease/CountyRelease.html)
+
+[West Virginia Legislative Changes](https://wvbom.wv.gov/LegislativeChangesAffectOpioid.asp)
