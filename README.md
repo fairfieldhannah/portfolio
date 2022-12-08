@@ -47,5 +47,6 @@ After graduation, I'll be working as a manager for a data science team at an Art
 
 ### Shorthand
 [60 Second Accidental Drug Overdose Deaths in the United States Presentation](https://preview.shorthand.com/MgqHZkLE9hEiic6x)
+
 [Full Accidental Drug Overdose Deaths in the United States Presentation](https://preview.shorthand.com/62iYcOHEFVMs0YGy)
 
