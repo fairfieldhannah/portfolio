@@ -1,5 +1,7 @@
 # Assignment 3 & 4: Critique by Design
 
+See my github [portfolio](https://fairfieldhannah.github.io/portfolio)
+
 ## OVERALL PROCESS
 
 ### STEP ONE
