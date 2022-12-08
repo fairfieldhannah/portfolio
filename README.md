@@ -42,9 +42,10 @@ After graduation, I'll be working as a manager for a data science team at an Art
 ### Final Project Part II
 [Accidental Drug Overdoses in the United States Storyboard](https://fairfieldhannah.github.io/portfolio/finalproject2.html)
 
-### Practicing Persuasions Coming Soon
+### Final Project Part III
+[Accidental Drug Overdoses in the United States Storyboard](https://fairfieldhannah.github.io/portfolio/finalproject3.html)
 
-### Final Project Part II Coming Soon
-
-### Final Project Part III Coming Soon
+### Shorthand
+[60 Second Accidental Drug Overdose Deaths in the United States Presentation](https://preview.shorthand.com/MgqHZkLE9hEiic6x)
+[Full Accidental Drug Overdose Deaths in the United States Presentation](https://preview.shorthand.com/62iYcOHEFVMs0YGy)
 
